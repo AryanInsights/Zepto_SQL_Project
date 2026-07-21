@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,mrp,discount_pct,selling_price,rating,stock,quantity_sold,revenue,order_date,city,customer_type
+1,Amul Gold Milk,Dairy,Amul,349,10,314.1,4.7,30,3,942.3,2025-05-13,Gurgaon,Returning
+2,Apple,Fruits,Fresh,36,30,25.2,4.1,249,4,100.8,2025-01-23,Gurgaon,Returning
+3,Britannia Good Day,Biscuits,Britannia,127,0,127,4.2,436,10,1270,2025-03-20,Pune,Returning
+4,Tata Salt,Groceries,Tata,407,25,305.25,4.6,114,7,2136.75,2025-05-13,Gurgaon,New
+5,Aashirvaad Atta 5kg,Groceries,Aashirvaad,391,0,391,4.8,147,6,2346,2025-03-17,Mumbai,Returning
+6,Haldiram Bhujia,Snacks,Haldiram,310,10,279,4,301,1,279,2025-01-11,Mumbai,Returning
+7,Potato,Vegetables,Fresh,246,15,209.1,4.3,61,1,209.1,2025-01-02,Delhi,Returning
+8,Amul Gold Milk,Dairy,Amul,436,30,305.2,4.2,476,4,1220.8,2025-01-28,Pune,New
+9,Paneer,Dairy,Amul,59,20,47.2,4.6,386,4,188.8,2025-04-22,Mumbai,New
+10,Curd,Dairy,Mother Dairy,74,0,74,3.9,338,1,74,2025-05-20,Gurgaon,Returning
+11,Amul Gold Milk,Dairy,Amul,208,30,145.6,4.5,284,9,1310.4,2025-04-16,Noida,Returning
+12,Britannia Good Day,Biscuits,Britannia,177,30,123.9,4.3,424,9,1115.1,2025-06-04,Gurgaon,Returning
+13,Banana,Fruits,Fresh,200,5,190,4.5,93,2,380,2025-05-22,Gurgaon,New
+14,Curd,Dairy,Mother Dairy,267,10,240.3,4,143,7,1682.1,2025-04-10,Noida,Returning
+15,Apple,Fruits,Fresh,398,5,378.1,4.1,158,1,378.1,2025-03-27,Noida,Returning
+16,Banana,Fruits,Fresh,112,25,84,4.4,160,8,672,2025-01-30,Noida,New
+17,Tomato,Vegetables,Fresh,489,25,366.75,4.4,89,5,1833.75,2025-02-15,Mumbai,Returning
+18,Aashirvaad Atta 5kg,Groceries,Aashirvaad,253,0,253,4.1,213,7,1771,2025-05-09,Pune,New
+19,Apple,Fruits,Fresh,331,5,314.45,4.4,371,2,628.9,2025-06-14,Pune,Returning
+20,Lay's Classic Chips,Snacks,Lay's,471,20,376.8,5,118,3,1130.4,2025-06-18,Noida,New
+21,Haldiram Bhujia,Snacks,Haldiram,113,20,90.4,4.2,31,10,904,2025-04-16,Gurgaon,Returning
+22,Fortune Sunflower Oil,Groceries,Fortune,374,0,374,4,313,1,374,2025-06-01,Noida,New
+23,Haldiram Bhujia,Snacks,Haldiram,353,25,264.75,4.8,298,6,1588.5,2025-03-22,Delhi,Returning
+24,Amul Gold Milk,Dairy,Amul,289,25,216.75,4.7,269,9,1950.75,2025-06-08,Pune,Returning
+25,Tata Salt,Groceries,Tata,47,30,32.9,4.2,36,2,65.8,2025-04-19,Delhi,Returning
+26,Pepsi 2L,Beverages,Pepsi,52,15,44.2,5,211,6,265.2,2025-03-05,Noida,New
+27,Tomato,Vegetables,Fresh,428,25,321,4.3,264,4,1284,2025-04-24,Pune,Returning
+28,Fortune Sunflower Oil,Groceries,Fortune,69,5,65.55,4,334,7,458.85,2025-04-12,Pune,New
+29,Amul Gold Milk,Dairy,Amul,167,20,133.6,4.8,30,2,267.2,2025-01-23,Pune,New
+30,Maggi Noodles,Instant Food,Nestle,429,10,386.1,3.9,220,1,386.1,2025-06-12,Mumbai,Returning
+31,Banana,Fruits,Fresh,337,5,320.15,4.1,149,6,1920.9,2025-01-31,Mumbai,Returning
+32,Tata Salt,Groceries,Tata,451,0,451,4,367,10,4510,2025-03-23,Noida,Returning
+33,Potato,Vegetables,Fresh,364,30,254.8,4.2,132,9,2293.2,2025-01-27,Gurgaon,New
+34,Potato,Vegetables,Fresh,117,20,93.6,4.4,315,8,748.8,2025-02-07,Mumbai,New
+35,Pepsi 2L,Beverages,Pepsi,123,10,110.7,4.8,173,4,442.8,2025-02-22,Pune,New
+36,Britannia Good Day,Biscuits,Britannia,346,30,242.2,4.2,155,7,1695.4,2025-04-05,Mumbai,New
+37,Britannia Good Day,Biscuits,Britannia,206,0,206,4.6,89,9,1854,2025-05-31,Gurgaon,Returning
+38,Britannia Good Day,Biscuits,Britannia,60,30,42,4.8,339,7,294,2025-05-24,Gurgaon,Returning
+39,Paneer,Dairy,Amul,387,5,367.65,4.3,5,8,2941.2,2025-06-26,Mumbai,Returning
+40,Pepsi 2L,Beverages,Pepsi,86,15,73.1,4.2,101,7,511.7,2025-04-03,Delhi,Returning
+41,Banana,Fruits,Fresh,70,25,52.5,4.6,224,8,420,2025-06-22,Gurgaon,New
+42,Aashirvaad Atta 5kg,Groceries,Aashirvaad,172,25,129,4.7,473,6,774,2025-05-10,Gurgaon,New
+43,Britannia Good Day,Biscuits,Britannia,162,20,129.6,4.3,356,6,777.6,2025-02-25,Delhi,Returning
+44,Amul Gold Milk,Dairy,Amul,251,30,175.7,4.1,180,6,1054.2,2025-04-06,Mumbai,New
+45,Tata Salt,Groceries,Tata,265,30,185.5,4,183,4,742,2025-03-10,Gurgaon,New
+46,Tata Salt,Groceries,Tata,383,30,268.1,4.8,32,3,804.3,2025-03-13,Delhi,Returning
+47,Maggi Noodles,Instant Food,Nestle,226,25,169.5,4.5,309,8,1356,2025-05-01,Gurgaon,New
+48,Haldiram Bhujia,Snacks,Haldiram,423,20,338.4,3.8,481,1,338.4,2025-05-08,Noida,New
+49,Banana,Fruits,Fresh,303,5,287.85,3.9,58,1,287.85,2025-01-14,Noida,New
+50,Maggi Noodles,Instant Food,Nestle,178,15,151.3,3.8,44,3,453.9,2025-03-13,Pune,Returning
+51,Tata Salt,Groceries,Tata,370,25,277.5,3.9,224,9,2497.5,2025-05-10,Noida,New
+52,Curd,Dairy,Mother Dairy,210,25,157.5,4.8,253,6,945,2025-03-31,Noida,Returning
+53,Britannia Good Day,Biscuits,Britannia,221,15,187.85,4.2,480,10,1878.5,2025-06-11,Pune,New
+54,Lay's Classic Chips,Snacks,Lay's,198,10,178.2,3.9,397,7,1247.4,2025-02-10,Noida,Returning
+55,Onion,Vegetables,Fresh,244,0,244,4.7,453,5,1220,2025-02-01,Noida,Returning
+56,Apple,Fruits,Fresh,245,0,245,4.7,436,4,980,2025-04-05,Delhi,New
+57,Fortune Sunflower Oil,Groceries,Fortune,170,30,119,4.7,5,5,595,2025-04-04,Noida,New
+58,Aashirvaad Atta 5kg,Groceries,Aashirvaad,144,5,136.8,4.3,356,8,1094.4,2025-03-26,Pune,New
+59,Aashirvaad Atta 5kg,Groceries,Aashirvaad,287,30,200.9,4.8,420,4,803.6,2025-06-08,Noida,Returning
+60,Paneer,Dairy,Amul,448,0,448,4.9,122,10,4480,2025-05-17,Gurgaon,Returning
+61,Britannia Good Day,Biscuits,Britannia,140,20,112,4.5,278,3,336,2025-03-07,Pune,Returning
+62,Apple,Fruits,Fresh,289,15,245.65,4.6,136,4,982.6,2025-04-04,Gurgaon,New
+63,Curd,Dairy,Mother Dairy,329,30,230.3,4.3,182,7,1612.1,2025-04-22,Noida,New
+64,Aashirvaad Atta 5kg,Groceries,Aashirvaad,327,10,294.3,4.5,91,4,1177.2,2025-05-07,Noida,Returning
+65,Paneer,Dairy,Amul,423,0,423,4.9,198,7,2961,2025-04-05,Pune,New
+66,Curd,Dairy,Mother Dairy,270,15,229.5,4.2,325,5,1147.5,2025-03-23,Mumbai,Returning
+67,Haldiram Bhujia,Snacks,Haldiram,500,0,500,4.2,409,4,2000,2025-06-29,Gurgaon,New
+68,Maggi Noodles,Instant Food,Nestle,100,15,85,4.1,71,8,680,2025-03-06,Mumbai,Returning
+69,Onion,Vegetables,Fresh,276,25,207,4.3,497,7,1449,2025-03-23,Gurgaon,New
+70,Paneer,Dairy,Amul,431,10,387.9,4.8,103,5,1939.5,2025-05-31,Mumbai,Returning
+71,Paneer,Dairy,Amul,326,30,228.2,3.9,145,2,456.4,2025-01-01,Mumbai,Returning
+72,Britannia Good Day,Biscuits,Britannia,376,15,319.6,4.6,104,2,639.2,2025-03-12,Delhi,New
+73,Banana,Fruits,Fresh,356,20,284.8,4.2,497,6,1708.8,2025-04-06,Gurgaon,Returning
+74,Aashirvaad Atta 5kg,Groceries,Aashirvaad,298,10,268.2,3.8,401,7,1877.4,2025-05-21,Delhi,New
+75,Banana,Fruits,Fresh,260,20,208,5,282,5,1040,2025-01-23,Delhi,Returning
+76,Tata Salt,Groceries,Tata,164,5,155.8,4.8,444,9,1402.2,2025-03-28,Gurgaon,Returning
+77,Haldiram Bhujia,Snacks,Haldiram,283,25,212.25,4.7,307,6,1273.5,2025-04-27,Noida,Returning
+78,Potato,Vegetables,Fresh,349,5,331.55,4.6,191,8,2652.4,2025-05-01,Delhi,Returning
+79,Haldiram Bhujia,Snacks,Haldiram,223,0,223,4.9,204,2,446,2025-01-24,Delhi,New
+80,Lay's Classic Chips,Snacks,Lay's,286,0,286,4.8,143,4,1144,2025-03-13,Mumbai,Returning
+81,Paneer,Dairy,Amul,251,5,238.45,3.9,167,2,476.9,2025-03-30,Pune,Returning
+82,Tomato,Vegetables,Fresh,193,15,164.05,4,195,4,656.2,2025-02-22,Gurgaon,New
+83,Tomato,Vegetables,Fresh,242,0,242,4.5,396,5,1210,2025-06-02,Noida,Returning
+84,Curd,Dairy,Mother Dairy,287,25,215.25,4,51,3,645.75,2025-01-07,Delhi,Returning
+85,Potato,Vegetables,Fresh,235,30,164.5,3.9,151,5,822.5,2025-01-09,Gurgaon,Returning
+86,Coca-Cola 750ml,Beverages,Coca-Cola,221,20,176.8,4.3,429,10,1768,2025-01-21,Noida,New
+87,Potato,Vegetables,Fresh,253,10,227.7,3.9,473,10,2277,2025-03-19,Delhi,Returning
+88,Apple,Fruits,Fresh,371,20,296.8,4.1,121,10,2968,2025-06-24,Pune,Returning
+89,Fortune Sunflower Oil,Groceries,Fortune,486,5,461.7,4.9,453,9,4155.3,2025-04-23,Mumbai,New
+90,Maggi Noodles,Instant Food,Nestle,40,20,32,4.4,393,7,224,2025-01-18,Pune,Returning
+91,Haldiram Bhujia,Snacks,Haldiram,273,30,191.1,4.8,312,4,764.4,2025-01-13,Pune,New
+92,Tata Salt,Groceries,Tata,146,5,138.7,4.2,450,5,693.5,2025-05-06,Gurgaon,New
+93,Maggi Noodles,Instant Food,Nestle,281,10,252.9,4.6,94,8,2023.2,2025-01-14,Mumbai,New
+94,Apple,Fruits,Fresh,73,20,58.4,4.2,47,5,292,2025-01-26,Noida,New
+95,Paneer,Dairy,Amul,90,5,85.5,4.1,412,3,256.5,2025-06-29,Mumbai,New
+96,Aashirvaad Atta 5kg,Groceries,Aashirvaad,430,25,322.5,3.9,48,9,2902.5,2025-04-03,Pune,Returning
+97,Banana,Fruits,Fresh,410,15,348.5,4.6,369,8,2788,2025-02-16,Mumbai,New
+98,Potato,Vegetables,Fresh,98,10,88.2,4.1,480,2,176.4,2025-01-05,Noida,Returning
+99,Tata Salt,Groceries,Tata,211,5,200.45,4.7,436,1,200.45,2025-02-01,Delhi,New
+100,Lay's Classic Chips,Snacks,Lay's,340,15,289,4.4,106,9,2601,2025-03-14,Delhi,New
+101,Aashirvaad Atta 5kg,Groceries,Aashirvaad,423,20,338.4,4.4,365,7,2368.8,2025-06-09,Delhi,New
+102,Pepsi 2L,Beverages,Pepsi,95,5,90.25,4.8,87,2,180.5,2025-03-17,Noida,New
+103,Britannia Good Day,Biscuits,Britannia,326,30,228.2,4.1,69,10,2282,2025-04-26,Mumbai,Returning
+104,Curd,Dairy,Mother Dairy,426,10,383.4,4.9,464,9,3450.6,2025-03-15,Gurgaon,Returning
+105,Fortune Sunflower Oil,Groceries,Fortune,399,20,319.2,4.9,72,8,2553.6,2025-05-03,Noida,New
+106,Potato,Vegetables,Fresh,172,0,172,4.1,266,1,172,2025-04-02,Gurgaon,Returning
+107,Amul Gold Milk,Dairy,Amul,110,30,77,5,344,8,616,2025-02-14,Delhi,New
+108,Onion,Vegetables,Fresh,104,25,78,4.4,155,3,234,2025-01-04,Noida,Returning
+109,Curd,Dairy,Mother Dairy,46,10,41.4,4.9,368,4,165.6,2025-01-29,Noida,New
+110,Fortune Sunflower Oil,Groceries,Fortune,336,10,302.4,4.9,436,9,2721.6,2025-04-10,Noida,New
+111,Tomato,Vegetables,Fresh,266,20,212.8,4.7,35,9,1915.2,2025-03-13,Gurgaon,New
+112,Paneer,Dairy,Amul,416,25,312,5,464,4,1248,2025-06-02,Delhi,Returning
+113,Paneer,Dairy,Amul,213,10,191.7,4.7,255,9,1725.3,2025-03-22,Noida,Returning
+114,Banana,Fruits,Fresh,490,10,441,4.9,196,7,3087,2025-01-23,Delhi,New
+115,Britannia Good Day,Biscuits,Britannia,82,30,57.4,4,114,10,574,2025-04-25,Delhi,Returning
+116,Lay's Classic Chips,Snacks,Lay's,181,25,135.75,4.5,62,6,814.5,2025-03-20,Delhi,Returning
+117,Lay's Classic Chips,Snacks,Lay's,53,10,47.7,4.4,437,6,286.2,2025-02-25,Mumbai,Returning
+118,Amul Gold Milk,Dairy,Amul,290,25,217.5,4,259,3,652.5,2025-05-03,Pune,Returning
+119,Potato,Vegetables,Fresh,363,0,363,4.4,296,4,1452,2025-05-18,Mumbai,Returning
+120,Aashirvaad Atta 5kg,Groceries,Aashirvaad,39,15,33.15,4.6,436,5,165.75,2025-05-11,Noida,Returning
+121,Aashirvaad Atta 5kg,Groceries,Aashirvaad,480,5,456,4.6,45,5,2280,2025-06-03,Pune,New
+122,Potato,Vegetables,Fresh,249,10,224.1,4.6,248,1,224.1,2025-06-18,Delhi,Returning
+123,Amul Gold Milk,Dairy,Amul,89,25,66.75,4.8,212,6,400.5,2025-03-01,Gurgaon,Returning
+124,Coca-Cola 750ml,Beverages,Coca-Cola,365,15,310.25,4,388,1,310.25,2025-04-11,Mumbai,Returning
+125,Britannia Good Day,Biscuits,Britannia,168,5,159.6,4.6,75,10,1596,2025-03-27,Mumbai,Returning
+126,Apple,Fruits,Fresh,493,30,345.1,4.1,23,3,1035.3,2025-02-27,Delhi,New
+127,Lay's Classic Chips,Snacks,Lay's,218,0,218,4.3,371,6,1308,2025-04-05,Delhi,Returning
+128,Paneer,Dairy,Amul,96,5,91.2,3.9,10,9,820.8,2025-04-07,Gurgaon,New
+129,Haldiram Bhujia,Snacks,Haldiram,159,20,127.2,4.8,209,5,636,2025-02-21,Noida,New
+130,Fortune Sunflower Oil,Groceries,Fortune,291,25,218.25,5,91,3,654.75,2025-04-26,Mumbai,New
+131,Coca-Cola 750ml,Beverages,Coca-Cola,244,10,219.6,5,391,10,2196,2025-04-11,Pune,New
+132,Apple,Fruits,Fresh,46,20,36.8,4.9,199,4,147.2,2025-04-08,Mumbai,Returning
+133,Curd,Dairy,Mother Dairy,225,5,213.75,4.7,165,6,1282.5,2025-02-28,Mumbai,New
+134,Lay's Classic Chips,Snacks,Lay's,214,0,214,4.4,480,1,214,2025-04-04,Pune,New
+135,Aashirvaad Atta 5kg,Groceries,Aashirvaad,369,10,332.1,4.4,341,7,2324.7,2025-04-05,Gurgaon,Returning
+136,Lay's Classic Chips,Snacks,Lay's,329,25,246.75,4.2,63,5,1233.75,2025-02-01,Delhi,Returning
+137,Tomato,Vegetables,Fresh,253,20,202.4,4.1,111,3,607.2,2025-04-15,Gurgaon,Returning
+138,Pepsi 2L,Beverages,Pepsi,48,15,40.8,4.6,16,3,122.4,2025-06-26,Gurgaon,Returning
+139,Apple,Fruits,Fresh,69,10,62.1,4.9,49,10,621,2025-06-17,Pune,New
+140,Apple,Fruits,Fresh,400,30,280,4.7,26,7,1960,2025-03-31,Delhi,New
+141,Tata Salt,Groceries,Tata,328,20,262.4,4.6,171,6,1574.4,2025-06-06,Delhi,New
+142,Haldiram Bhujia,Snacks,Haldiram,25,0,25,4.2,353,10,250,2025-03-21,Pune,Returning
+143,Tomato,Vegetables,Fresh,376,25,282,4.5,185,3,846,2025-01-21,Gurgaon,New
+144,Pepsi 2L,Beverages,Pepsi,191,5,181.45,4.7,163,10,1814.5,2025-05-17,Delhi,Returning
+145,Apple,Fruits,Fresh,172,30,120.4,3.8,236,6,722.4,2025-01-09,Delhi,New
+146,Britannia Good Day,Biscuits,Britannia,151,30,105.7,3.9,23,10,1057,2025-06-26,Gurgaon,New
+147,Apple,Fruits,Fresh,97,5,92.15,4.7,234,3,276.45,2025-01-19,Mumbai,New
+148,Amul Gold Milk,Dairy,Amul,358,25,268.5,4.4,323,7,1879.5,2025-03-08,Pune,New
+149,Lay's Classic Chips,Snacks,Lay's,341,10,306.9,4.5,468,5,1534.5,2025-05-11,Gurgaon,Returning
+150,Maggi Noodles,Instant Food,Nestle,196,10,176.4,4.7,30,5,882,2025-06-11,Mumbai,Returning
+151,Aashirvaad Atta 5kg,Groceries,Aashirvaad,248,15,210.8,4.4,218,2,421.6,2025-04-02,Gurgaon,Returning
+152,Paneer,Dairy,Amul,217,15,184.45,4.3,296,3,553.35,2025-04-01,Delhi,New
+153,Coca-Cola 750ml,Beverages,Coca-Cola,93,10,83.7,4.6,271,2,167.4,2025-04-23,Pune,Returning
+154,Banana,Fruits,Fresh,487,20,389.6,4.9,47,5,1948,2025-03-09,Mumbai,Returning
+155,Haldiram Bhujia,Snacks,Haldiram,300,15,255,3.9,103,3,765,2025-01-03,Mumbai,Returning
+156,Fortune Sunflower Oil,Groceries,Fortune,164,25,123,4.4,383,8,984,2025-04-18,Noida,Returning
+157,Pepsi 2L,Beverages,Pepsi,105,10,94.5,3.8,122,4,378,2025-05-02,Delhi,Returning
+158,Fortune Sunflower Oil,Groceries,Fortune,291,5,276.45,3.9,111,3,829.35,2025-03-05,Pune,New
+159,Curd,Dairy,Mother Dairy,142,25,106.5,4.2,499,5,532.5,2025-04-16,Delhi,New
+160,Britannia Good Day,Biscuits,Britannia,440,10,396,4.5,181,8,3168,2025-03-04,Pune,New
+161,Aashirvaad Atta 5kg,Groceries,Aashirvaad,199,20,159.2,4.2,9,4,636.8,2025-05-13,Mumbai,New
+162,Curd,Dairy,Mother Dairy,243,30,170.1,4.2,350,4,680.4,2025-01-19,Mumbai,New
+163,Curd,Dairy,Mother Dairy,255,5,242.25,4.5,79,8,1938,2025-03-09,Pune,New
+164,Aashirvaad Atta 5kg,Groceries,Aashirvaad,119,5,113.05,4.7,95,4,452.2,2025-01-12,Mumbai,New
+165,Fortune Sunflower Oil,Groceries,Fortune,387,25,290.25,4.5,31,3,870.75,2025-01-24,Gurgaon,Returning
+166,Pepsi 2L,Beverages,Pepsi,208,5,197.6,4.6,409,5,988,2025-03-06,Noida,Returning
+167,Curd,Dairy,Mother Dairy,419,15,356.15,3.9,405,7,2493.05,2025-04-11,Gurgaon,Returning
+168,Pepsi 2L,Beverages,Pepsi,399,5,379.05,4.8,6,7,2653.35,2025-04-13,Delhi,Returning
+169,Pepsi 2L,Beverages,Pepsi,126,20,100.8,5,78,5,504,2025-03-28,Pune,Returning
+170,Coca-Cola 750ml,Beverages,Coca-Cola,28,15,23.8,4.1,385,7,166.6,2025-04-19,Mumbai,New
+171,Coca-Cola 750ml,Beverages,Coca-Cola,484,0,484,5,427,4,1936,2025-05-21,Pune,New
+172,Coca-Cola 750ml,Beverages,Coca-Cola,340,10,306,4.5,283,6,1836,2025-06-08,Mumbai,New
+173,Apple,Fruits,Fresh,293,20,234.4,4.5,429,3,703.2,2025-03-06,Noida,Returning
+174,Lay's Classic Chips,Snacks,Lay's,30,15,25.5,5,494,10,255,2025-03-05,Gurgaon,New
+175,Fortune Sunflower Oil,Groceries,Fortune,145,10,130.5,4.5,442,8,1044,2025-05-28,Noida,Returning
+176,Potato,Vegetables,Fresh,421,15,357.85,4.6,445,3,1073.55,2025-03-19,Pune,Returning
+177,Maggi Noodles,Instant Food,Nestle,477,15,405.45,4.4,63,2,810.9,2025-04-04,Noida,New
+178,Pepsi 2L,Beverages,Pepsi,384,25,288,4.8,188,1,288,2025-06-22,Delhi,Returning
+179,Lay's Classic Chips,Snacks,Lay's,276,0,276,4,417,10,2760,2025-04-11,Gurgaon,New
+180,Tomato,Vegetables,Fresh,202,10,181.8,4.3,117,10,1818,2025-01-28,Gurgaon,Returning
+181,Pepsi 2L,Beverages,Pepsi,79,30,55.3,4.5,130,10,553,2025-03-21,Pune,New
+182,Tomato,Vegetables,Fresh,268,15,227.8,4,65,9,2050.2,2025-03-02,Mumbai,Returning
+183,Potato,Vegetables,Fresh,241,30,168.7,4.9,32,9,1518.3,2025-06-03,Gurgaon,Returning
+184,Apple,Fruits,Fresh,254,10,228.6,4.3,392,7,1600.2,2025-02-21,Delhi,Returning
+185,Coca-Cola 750ml,Beverages,Coca-Cola,226,30,158.2,3.9,15,6,949.2,2025-03-19,Noida,New
+186,Onion,Vegetables,Fresh,147,25,110.25,4.7,114,8,882,2025-05-28,Delhi,New
+187,Paneer,Dairy,Amul,487,5,462.65,4.1,309,4,1850.6,2025-05-29,Pune,Returning
+188,Tata Salt,Groceries,Tata,407,20,325.6,4.6,439,3,976.8,2025-04-09,Gurgaon,New
+189,Lay's Classic Chips,Snacks,Lay's,338,10,304.2,4,436,9,2737.8,2025-05-30,Noida,New
+190,Britannia Good Day,Biscuits,Britannia,403,25,302.25,4.7,419,9,2720.25,2025-02-14,Pune,Returning
+191,Apple,Fruits,Fresh,242,15,205.7,4.6,110,6,1234.2,2025-05-21,Pune,Returning
+192,Banana,Fruits,Fresh,423,5,401.85,4.1,111,7,2812.95,2025-05-13,Mumbai,New
+193,Maggi Noodles,Instant Food,Nestle,223,20,178.4,3.9,103,4,713.6,2025-05-13,Noida,New
+194,Potato,Vegetables,Fresh,196,25,147,5,45,9,1323,2025-02-17,Delhi,New
+195,Pepsi 2L,Beverages,Pepsi,117,30,81.9,4.5,33,5,409.5,2025-03-16,Pune,Returning
+196,Haldiram Bhujia,Snacks,Haldiram,184,30,128.8,3.8,375,8,1030.4,2025-01-28,Gurgaon,New
+197,Tomato,Vegetables,Fresh,495,5,470.25,4.4,159,6,2821.5,2025-03-13,Pune,New
+198,Amul Gold Milk,Dairy,Amul,139,15,118.15,4.9,294,6,708.9,2025-06-08,Delhi,New
+199,Britannia Good Day,Biscuits,Britannia,428,25,321,4.4,83,1,321,2025-05-06,Noida,Returning
+200,Apple,Fruits,Fresh,71,10,63.9,4.2,13,10,639,2025-03-23,Mumbai,New
+201,Potato,Vegetables,Fresh,218,20,174.4,4.3,175,5,872,2025-03-01,Mumbai,Returning
+202,Pepsi 2L,Beverages,Pepsi,249,15,211.65,4.6,173,9,1904.85,2025-02-23,Gurgaon,New
+203,Tomato,Vegetables,Fresh,111,30,77.7,4.2,53,6,466.2,2025-02-20,Gurgaon,New
+204,Coca-Cola 750ml,Beverages,Coca-Cola,415,15,352.75,4.9,409,3,1058.25,2025-05-21,Gurgaon,New
+205,Aashirvaad Atta 5kg,Groceries,Aashirvaad,206,20,164.8,4.5,238,2,329.6,2025-01-05,Delhi,New
+206,Tomato,Vegetables,Fresh,277,0,277,4.6,392,8,2216,2025-06-09,Gurgaon,Returning
+207,Coca-Cola 750ml,Beverages,Coca-Cola,88,10,79.2,4,322,9,712.8,2025-06-06,Gurgaon,Returning
+208,Britannia Good Day,Biscuits,Britannia,428,5,406.6,4.8,354,5,2033,2025-03-16,Delhi,New
+209,Lay's Classic Chips,Snacks,Lay's,425,20,340,4.1,415,6,2040,2025-04-29,Gurgaon,Returning
+210,Tata Salt,Groceries,Tata,269,20,215.2,4.3,131,7,1506.4,2025-04-09,Delhi,New
+211,Maggi Noodles,Instant Food,Nestle,485,30,339.5,3.8,266,3,1018.5,2025-06-06,Delhi,Returning
+212,Coca-Cola 750ml,Beverages,Coca-Cola,42,5,39.9,4.1,242,2,79.8,2025-02-17,Delhi,Returning
+213,Britannia Good Day,Biscuits,Britannia,25,10,22.5,4.1,157,10,225,2025-05-26,Noida,New
+214,Potato,Vegetables,Fresh,300,30,210,4.7,134,5,1050,2025-06-06,Noida,Returning
+215,Paneer,Dairy,Amul,298,15,253.3,4.8,123,6,1519.8,2025-06-17,Gurgaon,New
+216,Pepsi 2L,Beverages,Pepsi,283,0,283,4.8,153,5,1415,2025-02-06,Delhi,Returning
+217,Curd,Dairy,Mother Dairy,191,15,162.35,4.6,235,1,162.35,2025-02-26,Delhi,New
+218,Britannia Good Day,Biscuits,Britannia,483,0,483,4.7,311,10,4830,2025-06-16,Gurgaon,Returning
+219,Haldiram Bhujia,Snacks,Haldiram,316,15,268.6,4.9,419,7,1880.2,2025-03-02,Noida,New
+220,Tomato,Vegetables,Fresh,169,20,135.2,4.9,138,8,1081.6,2025-05-05,Pune,Returning
+221,Tata Salt,Groceries,Tata,307,25,230.25,4.6,346,5,1151.25,2025-01-10,Mumbai,Returning
+222,Banana,Fruits,Fresh,331,0,331,4.5,419,9,2979,2025-01-10,Mumbai,Returning
+223,Banana,Fruits,Fresh,104,15,88.4,4.8,66,4,353.6,2025-06-25,Delhi,Returning
+224,Pepsi 2L,Beverages,Pepsi,476,0,476,3.9,5,4,1904,2025-04-23,Delhi,New
+225,Maggi Noodles,Instant Food,Nestle,242,25,181.5,4.5,447,1,181.5,2025-05-12,Mumbai,New
+226,Aashirvaad Atta 5kg,Groceries,Aashirvaad,125,20,100,4.1,320,10,1000,2025-03-17,Gurgaon,Returning
+227,Haldiram Bhujia,Snacks,Haldiram,44,30,30.8,3.8,96,7,215.6,2025-01-19,Pune,Returning
+228,Pepsi 2L,Beverages,Pepsi,471,20,376.8,4,450,5,1884,2025-06-09,Noida,New
+229,Lay's Classic Chips,Snacks,Lay's,360,30,252,3.8,384,5,1260,2025-06-06,Gurgaon,New
+230,Paneer,Dairy,Amul,186,20,148.8,4.7,287,9,1339.2,2025-06-26,Delhi,Returning
+231,Tomato,Vegetables,Fresh,395,0,395,4,454,9,3555,2025-02-27,Noida,New
+232,Coca-Cola 750ml,Beverages,Coca-Cola,130,25,97.5,4.1,230,7,682.5,2025-02-10,Delhi,Returning
+233,Paneer,Dairy,Amul,232,15,197.2,4.8,433,9,1774.8,2025-06-17,Mumbai,New
+234,Aashirvaad Atta 5kg,Groceries,Aashirvaad,208,30,145.6,4.5,209,1,145.6,2025-05-10,Mumbai,Returning
+235,Pepsi 2L,Beverages,Pepsi,178,5,169.1,4.7,288,3,507.3,2025-01-10,Mumbai,New
+236,Britannia Good Day,Biscuits,Britannia,378,15,321.3,4.8,414,8,2570.4,2025-04-20,Delhi,Returning
+237,Curd,Dairy,Mother Dairy,396,30,277.2,4.2,495,1,277.2,2025-03-03,Gurgaon,New
+238,Fortune Sunflower Oil,Groceries,Fortune,418,10,376.2,3.8,473,8,3009.6,2025-04-04,Mumbai,Returning
+239,Amul Gold Milk,Dairy,Amul,44,15,37.4,4.2,262,8,299.2,2025-03-15,Mumbai,Returning
+240,Lay's Classic Chips,Snacks,Lay's,209,5,198.55,4,341,7,1389.85,2025-06-27,Gurgaon,New
+241,Paneer,Dairy,Amul,371,5,352.45,4.8,261,1,352.45,2025-01-22,Gurgaon,Returning
+242,Amul Gold Milk,Dairy,Amul,432,0,432,4.9,139,9,3888,2025-04-01,Noida,Returning
+243,Britannia Good Day,Biscuits,Britannia,255,0,255,4.3,244,6,1530,2025-06-21,Gurgaon,Returning
+244,Potato,Vegetables,Fresh,331,30,231.7,4.5,395,6,1390.2,2025-04-17,Pune,Returning
+245,Tata Salt,Groceries,Tata,461,15,391.85,3.8,489,2,783.7,2025-02-22,Noida,Returning
+246,Aashirvaad Atta 5kg,Groceries,Aashirvaad,428,15,363.8,3.9,343,6,2182.8,2025-06-02,Noida,New
+247,Maggi Noodles,Instant Food,Nestle,146,10,131.4,4,216,1,131.4,2025-04-13,Mumbai,New
+248,Tata Salt,Groceries,Tata,130,5,123.5,4.9,464,6,741,2025-02-19,Delhi,New
+249,Potato,Vegetables,Fresh,297,20,237.6,4.7,366,8,1900.8,2025-03-27,Delhi,New
+250,Curd,Dairy,Mother Dairy,402,30,281.4,3.9,110,10,2814,2025-02-16,Gurgaon,Returning
+251,Lay's Classic Chips,Snacks,Lay's,361,15,306.85,3.9,343,8,2454.8,2025-05-27,Pune,Returning
+252,Apple,Fruits,Fresh,375,25,281.25,4.5,147,7,1968.75,2025-06-26,Mumbai,Returning
+253,Britannia Good Day,Biscuits,Britannia,411,25,308.25,4.1,98,7,2157.75,2025-02-04,Noida,New
+254,Lay's Classic Chips,Snacks,Lay's,301,25,225.75,4.3,365,9,2031.75,2025-04-20,Pune,Returning
+255,Coca-Cola 750ml,Beverages,Coca-Cola,404,0,404,4,434,1,404,2025-05-15,Pune,New
+256,Maggi Noodles,Instant Food,Nestle,262,10,235.8,4.1,153,6,1414.8,2025-02-27,Delhi,New
+257,Potato,Vegetables,Fresh,27,20,21.6,4.2,473,9,194.4,2025-05-22,Pune,Returning
+258,Apple,Fruits,Fresh,486,0,486,4.5,151,5,2430,2025-04-23,Pune,Returning
+259,Curd,Dairy,Mother Dairy,421,30,294.7,4.3,475,2,589.4,2025-03-28,Noida,Returning
+260,Tata Salt,Groceries,Tata,224,20,179.2,4.2,149,4,716.8,2025-06-28,Gurgaon,New
+261,Pepsi 2L,Beverages,Pepsi,243,5,230.85,4.5,16,7,1615.95,2025-05-01,Delhi,New
+262,Maggi Noodles,Instant Food,Nestle,359,15,305.15,4.2,175,3,915.45,2025-01-10,Noida,New
+263,Amul Gold Milk,Dairy,Amul,142,10,127.8,4.6,221,9,1150.2,2025-02-27,Gurgaon,Returning
+264,Britannia Good Day,Biscuits,Britannia,128,25,96,4.8,161,6,576,2025-01-14,Pune,Returning
+265,Potato,Vegetables,Fresh,307,5,291.65,4.2,115,10,2916.5,2025-06-29,Mumbai,Returning
+266,Aashirvaad Atta 5kg,Groceries,Aashirvaad,191,0,191,4.6,72,8,1528,2025-01-06,Delhi,Returning
+267,Coca-Cola 750ml,Beverages,Coca-Cola,79,20,63.2,5,443,8,505.6,2025-02-22,Pune,Returning
+268,Lay's Classic Chips,Snacks,Lay's,66,5,62.7,4.7,45,4,250.8,2025-02-13,Gurgaon,Returning
+269,Haldiram Bhujia,Snacks,Haldiram,293,20,234.4,3.9,365,8,1875.2,2025-06-26,Delhi,New
+270,Maggi Noodles,Instant Food,Nestle,51,25,38.25,4.8,259,4,153,2025-03-01,Gurgaon,Returning
+271,Potato,Vegetables,Fresh,105,0,105,4.2,69,4,420,2025-01-23,Mumbai,Returning
+272,Fortune Sunflower Oil,Groceries,Fortune,109,15,92.65,4.2,16,8,741.2,2025-03-08,Gurgaon,New
+273,Potato,Vegetables,Fresh,275,10,247.5,4.1,380,2,495,2025-02-12,Noida,New
+274,Apple,Fruits,Fresh,112,5,106.4,4.7,395,9,957.6,2025-03-28,Noida,New
+275,Potato,Vegetables,Fresh,412,20,329.6,4.8,404,5,1648,2025-01-29,Delhi,New
+276,Britannia Good Day,Biscuits,Britannia,47,30,32.9,4.9,125,3,98.7,2025-03-29,Mumbai,New
+277,Tata Salt,Groceries,Tata,340,15,289,4.2,217,9,2601,2025-05-26,Noida,New
+278,Britannia Good Day,Biscuits,Britannia,95,10,85.5,4.8,73,4,342,2025-01-10,Pune,New
+279,Amul Gold Milk,Dairy,Amul,222,25,166.5,4.5,128,2,333,2025-05-30,Pune,New
+280,Banana,Fruits,Fresh,123,25,92.25,4.7,161,4,369,2025-02-26,Delhi,Returning
+281,Britannia Good Day,Biscuits,Britannia,468,25,351,4.3,211,1,351,2025-04-12,Pune,New
+282,Lay's Classic Chips,Snacks,Lay's,193,10,173.7,4.1,46,10,1737,2025-04-21,Mumbai,Returning
+283,Tata Salt,Groceries,Tata,137,5,130.15,4.7,325,6,780.9,2025-05-11,Pune,Returning
+284,Haldiram Bhujia,Snacks,Haldiram,96,20,76.8,4,475,2,153.6,2025-01-13,Mumbai,New
+285,Onion,Vegetables,Fresh,491,10,441.9,4.8,107,2,883.8,2025-03-31,Delhi,Returning
+286,Onion,Vegetables,Fresh,165,10,148.5,3.9,380,4,594,2025-04-15,Gurgaon,Returning
+287,Amul Gold Milk,Dairy,Amul,22,15,18.7,4.5,177,3,56.1,2025-05-15,Gurgaon,New
+288,Haldiram Bhujia,Snacks,Haldiram,178,15,151.3,4.8,58,4,605.2,2025-01-22,Noida,New
+289,Coca-Cola 750ml,Beverages,Coca-Cola,348,5,330.6,4.3,255,8,2644.8,2025-01-11,Gurgaon,Returning
+290,Pepsi 2L,Beverages,Pepsi,359,5,341.05,4.4,247,1,341.05,2025-05-23,Pune,New
+291,Tomato,Vegetables,Fresh,493,30,345.1,4.6,245,4,1380.4,2025-04-02,Noida,Returning
+292,Banana,Fruits,Fresh,111,5,105.45,4.3,475,2,210.9,2025-03-31,Gurgaon,Returning
+293,Lay's Classic Chips,Snacks,Lay's,496,20,396.8,4.9,436,10,3968,2025-02-17,Mumbai,New
+294,Lay's Classic Chips,Snacks,Lay's,346,15,294.1,3.9,424,4,1176.4,2025-06-11,Noida,New
+295,Curd,Dairy,Mother Dairy,487,5,462.65,5,483,5,2313.25,2025-03-11,Delhi,New
+296,Maggi Noodles,Instant Food,Nestle,34,25,25.5,4.2,33,7,178.5,2025-01-24,Mumbai,New
+297,Paneer,Dairy,Amul,422,10,379.8,4.6,384,5,1899,2025-03-25,Noida,New
+298,Onion,Vegetables,Fresh,222,10,199.8,4.1,358,2,399.6,2025-01-22,Mumbai,New
+299,Apple,Fruits,Fresh,262,5,248.9,4.6,479,9,2240.1,2025-03-27,Noida,New
+300,Potato,Vegetables,Fresh,294,20,235.2,4.8,112,6,1411.2,2025-04-12,Mumbai,Returning
+301,Coca-Cola 750ml,Beverages,Coca-Cola,372,25,279,4.3,429,9,2511,2025-04-24,Pune,Returning
+302,Banana,Fruits,Fresh,249,15,211.65,4.2,406,3,634.95,2025-06-10,Delhi,Returning
+303,Potato,Vegetables,Fresh,121,0,121,4.3,115,10,1210,2025-04-03,Pune,Returning
+304,Onion,Vegetables,Fresh,314,5,298.3,4.7,213,8,2386.4,2025-01-02,Noida,Returning
+305,Banana,Fruits,Fresh,24,30,16.8,3.8,467,7,117.6,2025-03-08,Delhi,New
+306,Lay's Classic Chips,Snacks,Lay's,373,0,373,3.9,379,2,746,2025-05-09,Gurgaon,Returning
+307,Pepsi 2L,Beverages,Pepsi,438,30,306.6,4.3,463,5,1533,2025-01-06,Noida,Returning
+308,Amul Gold Milk,Dairy,Amul,412,5,391.4,4.6,307,9,3522.6,2025-03-21,Noida,Returning
+309,Lay's Classic Chips,Snacks,Lay's,450,5,427.5,4.9,176,3,1282.5,2025-03-11,Gurgaon,Returning
+310,Haldiram Bhujia,Snacks,Haldiram,39,30,27.3,4.1,485,4,109.2,2025-03-01,Gurgaon,Returning
+311,Onion,Vegetables,Fresh,99,25,74.25,4.3,283,3,222.75,2025-04-29,Pune,New
+312,Fortune Sunflower Oil,Groceries,Fortune,313,0,313,4.4,184,8,2504,2025-02-18,Noida,Returning
+313,Coca-Cola 750ml,Beverages,Coca-Cola,381,5,361.95,4.5,423,3,1085.85,2025-06-13,Mumbai,Returning
+314,Pepsi 2L,Beverages,Pepsi,249,0,249,4.3,317,7,1743,2025-06-06,Noida,New
+315,Onion,Vegetables,Fresh,187,10,168.3,4.2,493,10,1683,2025-01-28,Delhi,Returning
+316,Maggi Noodles,Instant Food,Nestle,475,25,356.25,4.8,29,4,1425,2025-06-21,Noida,New
+317,Tata Salt,Groceries,Tata,395,10,355.5,4.3,277,3,1066.5,2025-03-05,Pune,New
+318,Tata Salt,Groceries,Tata,248,25,186,3.8,223,7,1302,2025-02-15,Mumbai,Returning
+319,Coca-Cola 750ml,Beverages,Coca-Cola,73,20,58.4,4.3,177,4,233.6,2025-01-01,Gurgaon,New
+320,Curd,Dairy,Mother Dairy,301,20,240.8,4.2,60,6,1444.8,2025-06-13,Noida,New
+321,Fortune Sunflower Oil,Groceries,Fortune,222,30,155.4,4.7,190,4,621.6,2025-04-16,Noida,Returning
+322,Amul Gold Milk,Dairy,Amul,194,5,184.3,4.9,443,3,552.9,2025-01-01,Noida,New
+323,Amul Gold Milk,Dairy,Amul,185,5,175.75,4.3,389,7,1230.25,2025-05-23,Delhi,Returning
+324,Banana,Fruits,Fresh,337,10,303.3,4.4,498,4,1213.2,2025-06-27,Noida,Returning
+325,Coca-Cola 750ml,Beverages,Coca-Cola,489,20,391.2,3.9,27,10,3912,2025-05-27,Pune,Returning
+326,Fortune Sunflower Oil,Groceries,Fortune,165,20,132,5,466,3,396,2025-01-08,Pune,New
+327,Aashirvaad Atta 5kg,Groceries,Aashirvaad,424,20,339.2,4.2,40,3,1017.6,2025-03-15,Pune,Returning
+328,Aashirvaad Atta 5kg,Groceries,Aashirvaad,339,20,271.2,4.6,470,7,1898.4,2025-02-14,Delhi,New
+329,Tata Salt,Groceries,Tata,477,30,333.9,4.1,171,4,1335.6,2025-06-14,Delhi,New
+330,Paneer,Dairy,Amul,415,5,394.25,4.6,182,4,1577,2025-04-29,Mumbai,New
+331,Lay's Classic Chips,Snacks,Lay's,213,30,149.1,4.4,368,9,1341.9,2025-04-16,Gurgaon,New
+332,Tata Salt,Groceries,Tata,242,30,169.4,4.4,301,7,1185.8,2025-01-10,Pune,Returning
+333,Maggi Noodles,Instant Food,Nestle,91,25,68.25,4.5,320,1,68.25,2025-03-31,Noida,New
+334,Tata Salt,Groceries,Tata,255,5,242.25,5,59,10,2422.5,2025-03-10,Mumbai,New
+335,Paneer,Dairy,Amul,402,20,321.6,4,231,1,321.6,2025-05-22,Noida,Returning
+336,Tomato,Vegetables,Fresh,262,30,183.4,4.5,297,10,1834,2025-05-08,Mumbai,New
+337,Paneer,Dairy,Amul,386,20,308.8,4.4,223,4,1235.2,2025-06-28,Noida,New
+338,Tata Salt,Groceries,Tata,265,15,225.25,4.6,73,1,225.25,2025-04-13,Delhi,Returning
+339,Lay's Classic Chips,Snacks,Lay's,120,10,108,4.9,275,5,540,2025-04-04,Mumbai,Returning
+340,Apple,Fruits,Fresh,219,0,219,4,334,5,1095,2025-04-24,Delhi,Returning
+341,Lay's Classic Chips,Snacks,Lay's,55,15,46.75,4.7,215,7,327.25,2025-04-26,Mumbai,New
+342,Britannia Good Day,Biscuits,Britannia,182,10,163.8,4.2,341,5,819,2025-01-26,Gurgaon,New
+343,Curd,Dairy,Mother Dairy,396,20,316.8,3.9,126,3,950.4,2025-03-20,Delhi,New
+344,Amul Gold Milk,Dairy,Amul,286,20,228.8,4.5,430,1,228.8,2025-06-14,Noida,Returning
+345,Amul Gold Milk,Dairy,Amul,428,10,385.2,4.6,385,8,3081.6,2025-06-05,Mumbai,New
+346,Pepsi 2L,Beverages,Pepsi,372,0,372,4.5,283,2,744,2025-01-15,Delhi,Returning
+347,Curd,Dairy,Mother Dairy,496,15,421.6,4.1,418,2,843.2,2025-03-11,Pune,New
+348,Amul Gold Milk,Dairy,Amul,82,20,65.6,4.5,22,2,131.2,2025-04-13,Delhi,Returning
+349,Coca-Cola 750ml,Beverages,Coca-Cola,226,15,192.1,4.9,291,5,960.5,2025-05-02,Noida,Returning
+350,Curd,Dairy,Mother Dairy,321,0,321,4.2,123,6,1926,2025-03-17,Gurgaon,Returning
+351,Aashirvaad Atta 5kg,Groceries,Aashirvaad,324,20,259.2,4.1,224,5,1296,2025-01-01,Noida,Returning
+352,Tata Salt,Groceries,Tata,367,10,330.3,4.8,429,8,2642.4,2025-04-27,Pune,Returning
+353,Amul Gold Milk,Dairy,Amul,249,25,186.75,4.5,313,1,186.75,2025-01-27,Pune,Returning
+354,Paneer,Dairy,Amul,65,5,61.75,4.7,220,8,494,2025-01-13,Mumbai,New
+355,Tomato,Vegetables,Fresh,192,15,163.2,4,199,3,489.6,2025-01-28,Noida,New
+356,Fortune Sunflower Oil,Groceries,Fortune,424,0,424,4.3,486,10,4240,2025-04-18,Noida,Returning
+357,Britannia Good Day,Biscuits,Britannia,346,20,276.8,4.1,193,5,1384,2025-02-27,Pune,Returning
+358,Britannia Good Day,Biscuits,Britannia,86,5,81.7,5,482,8,653.6,2025-04-09,Pune,Returning
+359,Maggi Noodles,Instant Food,Nestle,430,0,430,4,259,4,1720,2025-04-09,Gurgaon,Returning
+360,Banana,Fruits,Fresh,337,20,269.6,4.7,268,9,2426.4,2025-03-15,Pune,New
+361,Tomato,Vegetables,Fresh,107,0,107,4.3,119,8,856,2025-01-19,Pune,New
+362,Tomato,Vegetables,Fresh,427,25,320.25,4.1,234,1,320.25,2025-01-07,Delhi,New
+363,Maggi Noodles,Instant Food,Nestle,214,30,149.8,4.4,186,4,599.2,2025-04-05,Delhi,New
+364,Banana,Fruits,Fresh,258,5,245.1,4.3,49,9,2205.9,2025-02-13,Gurgaon,Returning
+365,Apple,Fruits,Fresh,445,25,333.75,4.3,303,9,3003.75,2025-03-08,Gurgaon,Returning
+366,Curd,Dairy,Mother Dairy,479,10,431.1,4.3,282,9,3879.9,2025-06-10,Gurgaon,New
+367,Coca-Cola 750ml,Beverages,Coca-Cola,217,0,217,4.4,297,3,651,2025-01-24,Gurgaon,Returning
+368,Britannia Good Day,Biscuits,Britannia,303,30,212.1,3.8,341,5,1060.5,2025-01-06,Delhi,Returning
+369,Curd,Dairy,Mother Dairy,404,25,303,3.9,219,8,2424,2025-01-09,Mumbai,Returning
+370,Tata Salt,Groceries,Tata,495,20,396,5,427,1,396,2025-04-23,Gurgaon,New
+371,Britannia Good Day,Biscuits,Britannia,56,25,42,4.8,239,3,126,2025-04-17,Gurgaon,New
+372,Britannia Good Day,Biscuits,Britannia,475,25,356.25,5,471,2,712.5,2025-02-14,Noida,Returning
+373,Onion,Vegetables,Fresh,165,15,140.25,4.7,365,9,1262.25,2025-05-10,Gurgaon,New
+374,Apple,Fruits,Fresh,66,5,62.7,4.8,408,6,376.2,2025-05-13,Gurgaon,New
+375,Onion,Vegetables,Fresh,88,25,66,3.8,481,2,132,2025-06-15,Pune,Returning
+376,Aashirvaad Atta 5kg,Groceries,Aashirvaad,101,30,70.7,4.1,183,3,212.1,2025-05-27,Delhi,Returning
+377,Aashirvaad Atta 5kg,Groceries,Aashirvaad,223,20,178.4,4.8,106,9,1605.6,2025-03-14,Mumbai,Returning
+378,Potato,Vegetables,Fresh,298,10,268.2,3.9,492,8,2145.6,2025-04-20,Gurgaon,Returning
+379,Tomato,Vegetables,Fresh,353,0,353,4,71,5,1765,2025-05-24,Delhi,New
+380,Potato,Vegetables,Fresh,254,5,241.3,4,288,7,1689.1,2025-04-21,Noida,Returning
+381,Amul Gold Milk,Dairy,Amul,338,0,338,4,39,1,338,2025-05-18,Mumbai,Returning
+382,Coca-Cola 750ml,Beverages,Coca-Cola,411,20,328.8,4.8,61,2,657.6,2025-04-23,Mumbai,Returning
+383,Haldiram Bhujia,Snacks,Haldiram,266,25,199.5,4.4,380,8,1596,2025-05-02,Noida,Returning
+384,Potato,Vegetables,Fresh,47,10,42.3,4.6,89,4,169.2,2025-02-10,Delhi,Returning
+385,Banana,Fruits,Fresh,139,15,118.15,4,272,3,354.45,2025-03-21,Mumbai,Returning
+386,Banana,Fruits,Fresh,154,15,130.9,4.1,48,8,1047.2,2025-04-05,Gurgaon,Returning
+387,Amul Gold Milk,Dairy,Amul,138,10,124.2,4.8,166,2,248.4,2025-06-01,Pune,Returning
+388,Fortune Sunflower Oil,Groceries,Fortune,181,20,144.8,4.5,376,6,868.8,2025-06-01,Pune,Returning
+389,Amul Gold Milk,Dairy,Amul,97,5,92.15,4.6,201,9,829.35,2025-06-01,Pune,New
+390,Amul Gold Milk,Dairy,Amul,279,15,237.15,4.2,295,9,2134.35,2025-03-28,Noida,New
+391,Paneer,Dairy,Amul,198,5,188.1,4.5,447,7,1316.7,2025-05-11,Noida,Returning
+392,Tomato,Vegetables,Fresh,356,0,356,4.4,402,7,2492,2025-03-21,Delhi,Returning
+393,Pepsi 2L,Beverages,Pepsi,320,5,304,4.8,60,6,1824,2025-06-19,Delhi,Returning
+394,Tata Salt,Groceries,Tata,431,25,323.25,4.5,25,3,969.75,2025-03-22,Pune,New
+395,Tomato,Vegetables,Fresh,161,0,161,4.6,273,4,644,2025-04-03,Gurgaon,Returning
+396,Lay's Classic Chips,Snacks,Lay's,188,10,169.2,4.7,66,9,1522.8,2025-02-02,Pune,New
+397,Paneer,Dairy,Amul,498,5,473.1,4.9,156,6,2838.6,2025-06-09,Gurgaon,New
+398,Tomato,Vegetables,Fresh,217,30,151.9,4.9,13,10,1519,2025-04-19,Delhi,New
+399,Pepsi 2L,Beverages,Pepsi,106,0,106,4.9,334,9,954,2025-05-13,Mumbai,Returning
+400,Potato,Vegetables,Fresh,246,10,221.4,4.9,47,4,885.6,2025-04-22,Mumbai,Returning
+401,Curd,Dairy,Mother Dairy,321,20,256.8,3.9,124,10,2568,2025-06-06,Pune,New
+402,Maggi Noodles,Instant Food,Nestle,422,0,422,4,82,9,3798,2025-05-05,Delhi,New
+403,Paneer,Dairy,Amul,275,5,261.25,4,465,2,522.5,2025-05-03,Mumbai,Returning
+404,Tomato,Vegetables,Fresh,346,5,328.7,4.6,413,2,657.4,2025-02-23,Gurgaon,Returning
+405,Maggi Noodles,Instant Food,Nestle,202,20,161.6,4.7,285,6,969.6,2025-06-20,Delhi,Returning
+406,Britannia Good Day,Biscuits,Britannia,427,15,362.95,4.3,476,4,1451.8,2025-05-08,Noida,New
+407,Maggi Noodles,Instant Food,Nestle,323,0,323,4.5,73,6,1938,2025-04-25,Delhi,New
+408,Potato,Vegetables,Fresh,435,25,326.25,4.9,499,7,2283.75,2025-01-27,Gurgaon,Returning
+409,Tomato,Vegetables,Fresh,433,20,346.4,4,268,4,1385.6,2025-02-18,Gurgaon,Returning
+410,Aashirvaad Atta 5kg,Groceries,Aashirvaad,169,5,160.55,4.2,444,8,1284.4,2025-06-21,Gurgaon,New
+411,Tomato,Vegetables,Fresh,426,0,426,3.9,302,4,1704,2025-05-14,Gurgaon,Returning
+412,Britannia Good Day,Biscuits,Britannia,29,30,20.3,5,433,1,20.3,2025-03-10,Gurgaon,New
+413,Banana,Fruits,Fresh,451,25,338.25,4.5,159,8,2706,2025-02-14,Pune,Returning
+414,Haldiram Bhujia,Snacks,Haldiram,222,0,222,4.1,223,6,1332,2025-02-14,Pune,New
+415,Lay's Classic Chips,Snacks,Lay's,224,15,190.4,5,317,3,571.2,2025-06-14,Gurgaon,Returning
+416,Britannia Good Day,Biscuits,Britannia,353,20,282.4,5,160,4,1129.6,2025-01-16,Gurgaon,New
+417,Lay's Classic Chips,Snacks,Lay's,339,0,339,4.5,56,3,1017,2025-06-27,Pune,Returning
+418,Tata Salt,Groceries,Tata,116,15,98.6,3.9,413,6,591.6,2025-03-02,Delhi,Returning
+419,Banana,Fruits,Fresh,472,0,472,4.3,315,9,4248,2025-05-14,Pune,Returning
+420,Tomato,Vegetables,Fresh,390,5,370.5,5,465,7,2593.5,2025-06-08,Pune,Returning
+421,Maggi Noodles,Instant Food,Nestle,208,5,197.6,4.4,452,6,1185.6,2025-02-07,Gurgaon,Returning
+422,Curd,Dairy,Mother Dairy,254,10,228.6,4.7,12,10,2286,2025-01-17,Delhi,New
+423,Tomato,Vegetables,Fresh,283,25,212.25,4.8,81,10,2122.5,2025-02-11,Pune,Returning
+424,Britannia Good Day,Biscuits,Britannia,106,15,90.1,4.8,338,4,360.4,2025-03-15,Delhi,New
+425,Banana,Fruits,Fresh,411,30,287.7,4.1,272,5,1438.5,2025-01-27,Mumbai,Returning
+426,Banana,Fruits,Fresh,377,25,282.75,4.8,77,4,1131,2025-05-10,Gurgaon,New
+427,Haldiram Bhujia,Snacks,Haldiram,335,0,335,4.4,130,8,2680,2025-02-02,Noida,New
+428,Banana,Fruits,Fresh,425,20,340,4.6,256,10,3400,2025-04-01,Mumbai,Returning
+429,Britannia Good Day,Biscuits,Britannia,272,25,204,3.9,484,3,612,2025-02-24,Gurgaon,New
+430,Onion,Vegetables,Fresh,121,10,108.9,3.8,211,2,217.8,2025-06-11,Pune,Returning
+431,Curd,Dairy,Mother Dairy,488,30,341.6,4.3,222,8,2732.8,2025-01-18,Noida,Returning
+432,Pepsi 2L,Beverages,Pepsi,464,5,440.8,4,259,1,440.8,2025-01-09,Noida,Returning
+433,Aashirvaad Atta 5kg,Groceries,Aashirvaad,234,10,210.6,4.4,483,1,210.6,2025-05-28,Noida,Returning
+434,Maggi Noodles,Instant Food,Nestle,380,0,380,4.3,461,1,380,2025-02-24,Pune,Returning
+435,Amul Gold Milk,Dairy,Amul,81,30,56.7,4.8,479,4,226.8,2025-04-03,Pune,Returning
+436,Coca-Cola 750ml,Beverages,Coca-Cola,162,0,162,4.7,136,7,1134,2025-03-08,Mumbai,Returning
+437,Apple,Fruits,Fresh,45,10,40.5,4.3,112,4,162,2025-06-24,Gurgaon,New
+438,Potato,Vegetables,Fresh,371,25,278.25,4.6,484,5,1391.25,2025-01-06,Pune,New
+439,Pepsi 2L,Beverages,Pepsi,307,15,260.95,4.7,201,2,521.9,2025-03-29,Delhi,New
+440,Britannia Good Day,Biscuits,Britannia,413,5,392.35,4.5,446,4,1569.4,2025-01-28,Noida,New
+441,Banana,Fruits,Fresh,492,25,369,3.8,249,1,369,2025-05-19,Delhi,Returning
+442,Apple,Fruits,Fresh,408,20,326.4,4.6,147,9,2937.6,2025-06-28,Gurgaon,New
+443,Amul Gold Milk,Dairy,Amul,202,0,202,4,329,3,606,2025-05-10,Delhi,Returning
+444,Maggi Noodles,Instant Food,Nestle,131,0,131,3.9,337,3,393,2025-05-23,Gurgaon,Returning
+445,Britannia Good Day,Biscuits,Britannia,71,15,60.35,3.9,265,2,120.7,2025-06-28,Mumbai,Returning
+446,Potato,Vegetables,Fresh,472,5,448.4,4.2,91,9,4035.6,2025-02-17,Gurgaon,Returning
+447,Amul Gold Milk,Dairy,Amul,307,15,260.95,4.8,415,4,1043.8,2025-04-16,Gurgaon,Returning
+448,Britannia Good Day,Biscuits,Britannia,123,0,123,4.5,327,6,738,2025-04-04,Mumbai,Returning
+449,Coca-Cola 750ml,Beverages,Coca-Cola,402,10,361.8,4.7,240,7,2532.6,2025-01-19,Delhi,New
+450,Paneer,Dairy,Amul,97,5,92.15,4.1,244,5,460.75,2025-04-15,Delhi,New
+451,Paneer,Dairy,Amul,147,15,124.95,4.8,224,7,874.65,2025-03-06,Gurgaon,New
+452,Amul Gold Milk,Dairy,Amul,114,25,85.5,4.9,269,5,427.5,2025-01-14,Delhi,Returning
+453,Amul Gold Milk,Dairy,Amul,263,5,249.85,4.5,363,4,999.4,2025-04-03,Gurgaon,New
+454,Aashirvaad Atta 5kg,Groceries,Aashirvaad,52,5,49.4,4.6,470,6,296.4,2025-01-10,Delhi,Returning
+455,Paneer,Dairy,Amul,280,0,280,3.8,316,2,560,2025-03-02,Pune,Returning
+456,Curd,Dairy,Mother Dairy,212,25,159,4.5,497,10,1590,2025-06-23,Pune,New
+457,Apple,Fruits,Fresh,263,15,223.55,4.9,7,1,223.55,2025-04-07,Gurgaon,Returning
+458,Tomato,Vegetables,Fresh,394,20,315.2,5,113,8,2521.6,2025-05-06,Delhi,Returning
+459,Pepsi 2L,Beverages,Pepsi,169,30,118.3,5,443,5,591.5,2025-06-28,Delhi,New
+460,Potato,Vegetables,Fresh,94,10,84.6,4,124,2,169.2,2025-01-13,Mumbai,New
+461,Pepsi 2L,Beverages,Pepsi,296,0,296,4.2,381,2,592,2025-06-21,Pune,New
+462,Amul Gold Milk,Dairy,Amul,409,20,327.2,3.9,67,10,3272,2025-02-20,Noida,New
+463,Coca-Cola 750ml,Beverages,Coca-Cola,464,15,394.4,4.9,50,5,1972,2025-02-02,Mumbai,New
+464,Lay's Classic Chips,Snacks,Lay's,159,15,135.15,4.7,230,2,270.3,2025-02-01,Gurgaon,New
+465,Onion,Vegetables,Fresh,205,15,174.25,4.2,254,2,348.5,2025-03-06,Noida,New
+466,Aashirvaad Atta 5kg,Groceries,Aashirvaad,219,10,197.1,4.9,213,3,591.3,2025-01-25,Gurgaon,New
+467,Coca-Cola 750ml,Beverages,Coca-Cola,455,15,386.75,4.2,132,10,3867.5,2025-06-14,Mumbai,New
+468,Amul Gold Milk,Dairy,Amul,101,0,101,5,280,9,909,2025-03-29,Mumbai,Returning
+469,Coca-Cola 750ml,Beverages,Coca-Cola,66,0,66,4,45,2,132,2025-06-16,Gurgaon,New
+470,Tata Salt,Groceries,Tata,302,0,302,4,488,2,604,2025-05-13,Mumbai,New
+471,Aashirvaad Atta 5kg,Groceries,Aashirvaad,149,25,111.75,4.7,69,2,223.5,2025-03-20,Delhi,New
+472,Coca-Cola 750ml,Beverages,Coca-Cola,278,5,264.1,4.8,344,1,264.1,2025-04-21,Noida,Returning
+473,Aashirvaad Atta 5kg,Groceries,Aashirvaad,389,5,369.55,4.4,452,2,739.1,2025-03-19,Mumbai,Returning
+474,Pepsi 2L,Beverages,Pepsi,275,5,261.25,4.8,303,1,261.25,2025-06-09,Gurgaon,New
+475,Haldiram Bhujia,Snacks,Haldiram,372,30,260.4,4.4,290,8,2083.2,2025-02-03,Pune,Returning
+476,Paneer,Dairy,Amul,365,5,346.75,3.9,194,3,1040.25,2025-02-10,Pune,Returning
+477,Potato,Vegetables,Fresh,274,20,219.2,4.6,269,6,1315.2,2025-06-28,Delhi,Returning
+478,Britannia Good Day,Biscuits,Britannia,141,15,119.85,3.9,155,8,958.8,2025-05-08,Noida,New
+479,Onion,Vegetables,Fresh,250,20,200,3.9,412,4,800,2025-05-14,Pune,New
+480,Onion,Vegetables,Fresh,392,30,274.4,4.4,51,10,2744,2025-02-20,Delhi,New
+481,Curd,Dairy,Mother Dairy,90,15,76.5,4.7,446,8,612,2025-01-15,Delhi,New
+482,Fortune Sunflower Oil,Groceries,Fortune,497,10,447.3,4.3,243,6,2683.8,2025-06-20,Pune,Returning
+483,Onion,Vegetables,Fresh,263,20,210.4,4.8,70,10,2104,2025-01-07,Gurgaon,New
+484,Tata Salt,Groceries,Tata,141,20,112.8,4.8,450,3,338.4,2025-03-05,Delhi,New
+485,Maggi Noodles,Instant Food,Nestle,341,0,341,4.6,283,2,682,2025-05-18,Mumbai,New
+486,Banana,Fruits,Fresh,347,25,260.25,4.3,39,7,1821.75,2025-04-10,Delhi,Returning
+487,Apple,Fruits,Fresh,178,0,178,4.7,427,7,1246,2025-04-14,Delhi,Returning
+488,Tomato,Vegetables,Fresh,86,25,64.5,4.7,151,2,129,2025-02-27,Delhi,Returning
+489,Paneer,Dairy,Amul,257,10,231.3,4.3,375,5,1156.5,2025-03-27,Gurgaon,Returning
+490,Paneer,Dairy,Amul,308,30,215.6,3.8,393,8,1724.8,2025-06-10,Mumbai,Returning
+491,Paneer,Dairy,Amul,261,0,261,4,424,5,1305,2025-05-01,Noida,New
+492,Lay's Classic Chips,Snacks,Lay's,300,20,240,4.3,36,6,1440,2025-03-21,Pune,New
+493,Potato,Vegetables,Fresh,118,30,82.6,4.7,50,6,495.6,2025-04-14,Mumbai,New
+494,Tomato,Vegetables,Fresh,444,15,377.4,4.9,13,5,1887,2025-04-26,Delhi,Returning
+495,Maggi Noodles,Instant Food,Nestle,287,0,287,4.5,214,4,1148,2025-04-12,Noida,Returning
+496,Fortune Sunflower Oil,Groceries,Fortune,412,30,288.4,4.3,489,2,576.8,2025-06-21,Mumbai,Returning
+497,Britannia Good Day,Biscuits,Britannia,416,20,332.8,4.4,374,5,1664,2025-05-22,Noida,Returning
+498,Paneer,Dairy,Amul,287,15,243.95,5,366,9,2195.55,2025-06-03,Delhi,Returning
+499,Maggi Noodles,Instant Food,Nestle,317,0,317,4.1,49,1,317,2025-02-21,Noida,Returning
+500,Amul Gold Milk,Dairy,Amul,321,20,256.8,4.9,458,6,1540.8,2025-01-31,Mumbai,Returning
+501,Britannia Good Day,Biscuits,Britannia,148,25,111,4.9,37,1,111,2025-05-09,Noida,Returning
+502,Amul Gold Milk,Dairy,Amul,102,25,76.5,4.8,141,7,535.5,2025-02-13,Mumbai,New
+503,Britannia Good Day,Biscuits,Britannia,290,25,217.5,4.9,118,2,435,2025-02-06,Pune,New
+504,Apple,Fruits,Fresh,244,10,219.6,4.7,73,1,219.6,2025-05-18,Gurgaon,New
+505,Britannia Good Day,Biscuits,Britannia,104,25,78,4.7,74,10,780,2025-04-05,Noida,New
+506,Tata Salt,Groceries,Tata,420,30,294,4.1,453,3,882,2025-05-11,Delhi,New
+507,Aashirvaad Atta 5kg,Groceries,Aashirvaad,73,10,65.7,3.9,429,9,591.3,2025-01-15,Noida,Returning
+508,Lay's Classic Chips,Snacks,Lay's,32,10,28.8,4.8,150,8,230.4,2025-04-23,Pune,Returning
+509,Coca-Cola 750ml,Beverages,Coca-Cola,137,10,123.3,4.7,164,3,369.9,2025-01-14,Noida,Returning
+510,Paneer,Dairy,Amul,248,30,173.6,4.7,55,1,173.6,2025-02-11,Pune,Returning
+511,Fortune Sunflower Oil,Groceries,Fortune,306,30,214.2,4.5,450,10,2142,2025-06-06,Mumbai,New
+512,Tomato,Vegetables,Fresh,71,30,49.7,4.2,88,2,99.4,2025-02-05,Noida,New
+513,Fortune Sunflower Oil,Groceries,Fortune,425,30,297.5,4,69,6,1785,2025-02-14,Delhi,New
+514,Apple,Fruits,Fresh,241,25,180.75,4.3,195,3,542.25,2025-05-22,Mumbai,Returning
+515,Apple,Fruits,Fresh,487,30,340.9,4.8,240,9,3068.1,2025-04-04,Gurgaon,New
+516,Curd,Dairy,Mother Dairy,227,30,158.9,4.5,487,9,1430.1,2025-03-26,Noida,New
+517,Tata Salt,Groceries,Tata,372,5,353.4,4.9,68,6,2120.4,2025-06-24,Gurgaon,Returning
+518,Haldiram Bhujia,Snacks,Haldiram,296,30,207.2,4.5,440,1,207.2,2025-06-06,Gurgaon,New
+519,Tomato,Vegetables,Fresh,421,5,399.95,4.6,213,1,399.95,2025-02-09,Pune,New
+520,Britannia Good Day,Biscuits,Britannia,65,10,58.5,4.4,215,3,175.5,2025-03-01,Pune,Returning
+521,Curd,Dairy,Mother Dairy,466,15,396.1,4.4,184,7,2772.7,2025-04-14,Noida,Returning
+522,Amul Gold Milk,Dairy,Amul,216,30,151.2,4.9,95,10,1512,2025-01-08,Gurgaon,New
+523,Fortune Sunflower Oil,Groceries,Fortune,92,25,69,3.9,12,7,483,2025-06-05,Gurgaon,New
+524,Banana,Fruits,Fresh,34,0,34,4.7,102,7,238,2025-05-02,Delhi,Returning
+525,Apple,Fruits,Fresh,164,10,147.6,4.6,315,4,590.4,2025-03-31,Delhi,New
+526,Curd,Dairy,Mother Dairy,266,20,212.8,4.4,171,7,1489.6,2025-05-06,Gurgaon,Returning
+527,Britannia Good Day,Biscuits,Britannia,140,20,112,4.7,38,8,896,2025-05-19,Mumbai,Returning
+528,Tomato,Vegetables,Fresh,25,0,25,4.3,139,4,100,2025-06-21,Mumbai,New
+529,Curd,Dairy,Mother Dairy,257,30,179.9,5,145,3,539.7,2025-05-07,Noida,Returning
+530,Tomato,Vegetables,Fresh,324,15,275.4,4.4,131,10,2754,2025-01-17,Mumbai,New
+531,Coca-Cola 750ml,Beverages,Coca-Cola,322,10,289.8,5,103,2,579.6,2025-03-03,Mumbai,New
+532,Haldiram Bhujia,Snacks,Haldiram,494,10,444.6,3.8,169,9,4001.4,2025-05-31,Delhi,Returning
+533,Banana,Fruits,Fresh,334,25,250.5,4,473,1,250.5,2025-01-10,Delhi,Returning
+534,Coca-Cola 750ml,Beverages,Coca-Cola,225,0,225,4.2,414,10,2250,2025-03-22,Delhi,New
+535,Tata Salt,Groceries,Tata,215,15,182.75,4.1,432,3,548.25,2025-02-23,Gurgaon,Returning
+536,Banana,Fruits,Fresh,162,5,153.9,4.9,193,2,307.8,2025-03-07,Pune,Returning
+537,Paneer,Dairy,Amul,262,30,183.4,4.6,368,8,1467.2,2025-05-14,Noida,New
+538,Potato,Vegetables,Fresh,95,30,66.5,4.4,252,5,332.5,2025-05-05,Pune,Returning
+539,Tomato,Vegetables,Fresh,232,15,197.2,4.1,103,1,197.2,2025-05-17,Pune,New
+540,Fortune Sunflower Oil,Groceries,Fortune,149,5,141.55,4.7,445,9,1273.95,2025-06-26,Delhi,New
+541,Tata Salt,Groceries,Tata,115,25,86.25,4.6,312,5,431.25,2025-03-15,Noida,Returning
+542,Maggi Noodles,Instant Food,Nestle,324,0,324,4.2,252,9,2916,2025-02-04,Pune,New
+543,Curd,Dairy,Mother Dairy,132,20,105.6,4.9,385,7,739.2,2025-06-16,Gurgaon,Returning
+544,Apple,Fruits,Fresh,124,15,105.4,4,399,5,527,2025-04-29,Noida,Returning
+545,Paneer,Dairy,Amul,136,20,108.8,4.5,403,9,979.2,2025-03-05,Delhi,Returning
+546,Banana,Fruits,Fresh,167,0,167,4.7,46,8,1336,2025-03-26,Gurgaon,New
+547,Coca-Cola 750ml,Beverages,Coca-Cola,493,5,468.35,4.7,348,8,3746.8,2025-04-12,Mumbai,Returning
+548,Onion,Vegetables,Fresh,376,10,338.4,4.3,134,4,1353.6,2025-06-04,Mumbai,New
+549,Curd,Dairy,Mother Dairy,227,25,170.25,3.8,299,1,170.25,2025-02-01,Gurgaon,New
+550,Lay's Classic Chips,Snacks,Lay's,416,25,312,4.4,309,9,2808,2025-03-05,Mumbai,Returning
+551,Tomato,Vegetables,Fresh,302,30,211.4,4,489,2,422.8,2025-05-13,Delhi,Returning
+552,Curd,Dairy,Mother Dairy,268,25,201,4.9,406,10,2010,2025-03-12,Delhi,Returning
+553,Coca-Cola 750ml,Beverages,Coca-Cola,371,25,278.25,4.2,473,1,278.25,2025-04-09,Pune,Returning
+554,Lay's Classic Chips,Snacks,Lay's,384,0,384,4,76,6,2304,2025-02-05,Pune,Returning
+555,Apple,Fruits,Fresh,215,5,204.25,4.4,499,9,1838.25,2025-01-02,Gurgaon,Returning
+556,Coca-Cola 750ml,Beverages,Coca-Cola,359,20,287.2,4.7,161,7,2010.4,2025-01-20,Pune,Returning
+557,Apple,Fruits,Fresh,481,5,456.95,4.1,488,5,2284.75,2025-04-20,Delhi,Returning
+558,Curd,Dairy,Mother Dairy,473,0,473,5,321,8,3784,2025-06-08,Delhi,New
+559,Paneer,Dairy,Amul,293,15,249.05,4,207,1,249.05,2025-06-29,Delhi,New
+560,Curd,Dairy,Mother Dairy,149,20,119.2,4.4,48,3,357.6,2025-02-05,Delhi,Returning
+561,Fortune Sunflower Oil,Groceries,Fortune,329,5,312.55,4.3,373,4,1250.2,2025-03-21,Noida,Returning
+562,Curd,Dairy,Mother Dairy,362,20,289.6,4.1,263,7,2027.2,2025-01-01,Gurgaon,Returning
+563,Banana,Fruits,Fresh,404,5,383.8,3.8,491,4,1535.2,2025-03-17,Delhi,New
+564,Pepsi 2L,Beverages,Pepsi,363,15,308.55,4.7,39,5,1542.75,2025-03-28,Noida,New
+565,Lay's Classic Chips,Snacks,Lay's,229,5,217.55,4,49,9,1957.95,2025-02-28,Mumbai,New
+566,Pepsi 2L,Beverages,Pepsi,50,30,35,4,196,4,140,2025-04-29,Delhi,Returning
+567,Aashirvaad Atta 5kg,Groceries,Aashirvaad,481,5,456.95,4.9,334,7,3198.65,2025-05-25,Pune,Returning
+568,Curd,Dairy,Mother Dairy,395,20,316,4.3,30,3,948,2025-01-07,Gurgaon,Returning
+569,Fortune Sunflower Oil,Groceries,Fortune,299,5,284.05,4.8,213,7,1988.35,2025-01-24,Delhi,Returning
+570,Lay's Classic Chips,Snacks,Lay's,412,30,288.4,4.6,83,7,2018.8,2025-06-19,Mumbai,Returning
+571,Pepsi 2L,Beverages,Pepsi,45,0,45,4.6,352,7,315,2025-01-10,Delhi,New
+572,Pepsi 2L,Beverages,Pepsi,35,20,28,4.7,145,7,196,2025-03-15,Gurgaon,New
+573,Potato,Vegetables,Fresh,285,5,270.75,3.8,361,3,812.25,2025-01-15,Delhi,Returning
+574,Onion,Vegetables,Fresh,150,30,105,4.9,476,10,1050,2025-02-04,Mumbai,Returning
+575,Curd,Dairy,Mother Dairy,55,10,49.5,3.8,188,6,297,2025-02-01,Delhi,New
+576,Potato,Vegetables,Fresh,302,10,271.8,4.6,111,4,1087.2,2025-02-03,Delhi,New
+577,Britannia Good Day,Biscuits,Britannia,130,30,91,4.1,391,10,910,2025-03-14,Noida,New
+578,Tata Salt,Groceries,Tata,473,20,378.4,4.4,207,3,1135.2,2025-01-17,Pune,New
+579,Britannia Good Day,Biscuits,Britannia,60,25,45,3.8,342,5,225,2025-02-09,Mumbai,Returning
+580,Britannia Good Day,Biscuits,Britannia,251,0,251,4.7,499,7,1757,2025-04-19,Delhi,New
+581,Apple,Fruits,Fresh,110,20,88,4.4,256,10,880,2025-04-30,Mumbai,New
+582,Onion,Vegetables,Fresh,453,25,339.75,4.1,330,5,1698.75,2025-06-21,Delhi,New
+583,Aashirvaad Atta 5kg,Groceries,Aashirvaad,387,20,309.6,4.3,153,10,3096,2025-01-12,Gurgaon,Returning
+584,Pepsi 2L,Beverages,Pepsi,279,10,251.1,4.1,174,3,753.3,2025-04-05,Gurgaon,New
+585,Potato,Vegetables,Fresh,115,20,92,5,27,1,92,2025-01-10,Gurgaon,Returning
+586,Potato,Vegetables,Fresh,171,30,119.7,4.4,154,2,239.4,2025-05-09,Mumbai,New
+587,Fortune Sunflower Oil,Groceries,Fortune,461,20,368.8,5,40,3,1106.4,2025-01-02,Gurgaon,Returning
+588,Paneer,Dairy,Amul,202,30,141.4,4.5,420,8,1131.2,2025-03-18,Pune,New
+589,Paneer,Dairy,Amul,454,30,317.8,4.6,301,5,1589,2025-03-26,Noida,Returning
+590,Tomato,Vegetables,Fresh,138,0,138,4.9,397,2,276,2025-06-04,Delhi,New
+591,Tata Salt,Groceries,Tata,223,10,200.7,4.9,433,6,1204.2,2025-02-09,Gurgaon,New
+592,Maggi Noodles,Instant Food,Nestle,178,15,151.3,4,5,4,605.2,2025-03-29,Gurgaon,New
+593,Haldiram Bhujia,Snacks,Haldiram,408,10,367.2,4.9,65,8,2937.6,2025-06-15,Mumbai,New
+594,Aashirvaad Atta 5kg,Groceries,Aashirvaad,29,0,29,4.1,364,2,58,2025-06-05,Pune,Returning
+595,Aashirvaad Atta 5kg,Groceries,Aashirvaad,66,20,52.8,4.4,376,3,158.4,2025-05-15,Delhi,New
+596,Britannia Good Day,Biscuits,Britannia,156,15,132.6,4.5,199,2,265.2,2025-01-23,Pune,Returning
+597,Pepsi 2L,Beverages,Pepsi,277,20,221.6,4.4,318,2,443.2,2025-04-24,Gurgaon,New
+598,Pepsi 2L,Beverages,Pepsi,375,15,318.75,4.3,125,10,3187.5,2025-05-31,Pune,New
+599,Pepsi 2L,Beverages,Pepsi,314,10,282.6,4.2,102,5,1413,2025-04-29,Mumbai,Returning
+600,Tomato,Vegetables,Fresh,36,15,30.6,4,271,9,275.4,2025-05-28,Gurgaon,Returning
+601,Amul Gold Milk,Dairy,Amul,285,5,270.75,4.7,203,8,2166,2025-04-10,Delhi,New
+602,Lay's Classic Chips,Snacks,Lay's,31,30,21.7,4.5,27,10,217,2025-01-31,Delhi,Returning
+603,Britannia Good Day,Biscuits,Britannia,419,20,335.2,4.6,421,2,670.4,2025-04-07,Pune,New
+604,Coca-Cola 750ml,Beverages,Coca-Cola,236,10,212.4,4.2,447,10,2124,2025-05-16,Delhi,New
+605,Aashirvaad Atta 5kg,Groceries,Aashirvaad,148,30,103.6,4.2,66,8,828.8,2025-03-20,Gurgaon,Returning
+606,Haldiram Bhujia,Snacks,Haldiram,51,10,45.9,4.7,400,7,321.3,2025-03-21,Gurgaon,Returning
+607,Banana,Fruits,Fresh,398,30,278.6,4.7,140,9,2507.4,2025-01-07,Pune,Returning
+608,Paneer,Dairy,Amul,475,5,451.25,4.7,489,1,451.25,2025-02-22,Noida,New
+609,Britannia Good Day,Biscuits,Britannia,75,10,67.5,4.3,73,9,607.5,2025-06-17,Delhi,Returning
+610,Tomato,Vegetables,Fresh,287,0,287,4,73,2,574,2025-06-08,Mumbai,Returning
+611,Fortune Sunflower Oil,Groceries,Fortune,126,20,100.8,5,35,7,705.6,2025-04-17,Mumbai,Returning
+612,Fortune Sunflower Oil,Groceries,Fortune,100,15,85,4,460,10,850,2025-03-21,Gurgaon,Returning
+613,Amul Gold Milk,Dairy,Amul,335,15,284.75,4.1,232,7,1993.25,2025-03-25,Noida,Returning
+614,Amul Gold Milk,Dairy,Amul,144,25,108,3.8,106,5,540,2025-03-27,Delhi,New
+615,Paneer,Dairy,Amul,411,0,411,4.9,120,5,2055,2025-06-22,Pune,Returning
+616,Coca-Cola 750ml,Beverages,Coca-Cola,73,0,73,4.2,46,3,219,2025-03-08,Pune,New
+617,Maggi Noodles,Instant Food,Nestle,491,20,392.8,3.9,52,10,3928,2025-06-12,Mumbai,New
+618,Tomato,Vegetables,Fresh,139,0,139,4.1,233,4,556,2025-06-06,Pune,Returning
+619,Coca-Cola 750ml,Beverages,Coca-Cola,318,20,254.4,4.6,463,10,2544,2025-02-16,Noida,Returning
+620,Maggi Noodles,Instant Food,Nestle,375,25,281.25,4.6,48,2,562.5,2025-06-06,Noida,Returning
+621,Coca-Cola 750ml,Beverages,Coca-Cola,420,30,294,4.7,143,4,1176,2025-03-21,Mumbai,New
+622,Amul Gold Milk,Dairy,Amul,325,0,325,4.3,143,3,975,2025-01-23,Noida,Returning
+623,Fortune Sunflower Oil,Groceries,Fortune,176,10,158.4,4.1,211,10,1584,2025-01-10,Pune,Returning
+624,Curd,Dairy,Mother Dairy,173,30,121.1,4.3,330,2,242.2,2025-05-11,Gurgaon,Returning
+625,Haldiram Bhujia,Snacks,Haldiram,54,25,40.5,4.2,35,10,405,2025-06-16,Delhi,New
+626,Tata Salt,Groceries,Tata,171,30,119.7,4.5,26,6,718.2,2025-06-17,Noida,Returning
+627,Coca-Cola 750ml,Beverages,Coca-Cola,231,5,219.45,4.3,299,6,1316.7,2025-03-28,Noida,Returning
+628,Banana,Fruits,Fresh,217,25,162.75,4.4,454,4,651,2025-02-04,Noida,Returning
+629,Fortune Sunflower Oil,Groceries,Fortune,340,15,289,3.9,384,6,1734,2025-03-05,Gurgaon,New
+630,Aashirvaad Atta 5kg,Groceries,Aashirvaad,265,5,251.75,4.3,118,3,755.25,2025-06-08,Pune,Returning
+631,Pepsi 2L,Beverages,Pepsi,406,20,324.8,4.9,229,1,324.8,2025-03-10,Mumbai,New
+632,Amul Gold Milk,Dairy,Amul,350,0,350,4.7,418,3,1050,2025-04-15,Delhi,New
+633,Coca-Cola 750ml,Beverages,Coca-Cola,57,30,39.9,4.1,234,9,359.1,2025-05-20,Gurgaon,New
+634,Pepsi 2L,Beverages,Pepsi,318,10,286.2,4.7,438,10,2862,2025-05-14,Pune,New
+635,Amul Gold Milk,Dairy,Amul,264,5,250.8,4.4,247,8,2006.4,2025-02-03,Mumbai,Returning
+636,Lay's Classic Chips,Snacks,Lay's,296,30,207.2,4.4,207,3,621.6,2025-06-19,Pune,Returning
+637,Curd,Dairy,Mother Dairy,29,15,24.65,4,336,2,49.3,2025-03-15,Noida,New
+638,Maggi Noodles,Instant Food,Nestle,369,20,295.2,4.5,96,6,1771.2,2025-04-30,Delhi,New
+639,Potato,Vegetables,Fresh,320,0,320,4.9,178,7,2240,2025-01-31,Noida,Returning
+640,Potato,Vegetables,Fresh,387,0,387,4.8,292,5,1935,2025-02-20,Delhi,Returning
+641,Paneer,Dairy,Amul,406,30,284.2,4.5,243,3,852.6,2025-04-29,Gurgaon,New
+642,Britannia Good Day,Biscuits,Britannia,42,15,35.7,4.5,109,7,249.9,2025-02-20,Pune,New
+643,Tata Salt,Groceries,Tata,126,25,94.5,4.9,359,3,283.5,2025-06-01,Gurgaon,Returning
+644,Curd,Dairy,Mother Dairy,296,30,207.2,4.6,498,1,207.2,2025-06-03,Delhi,New
+645,Apple,Fruits,Fresh,354,5,336.3,4.8,10,1,336.3,2025-05-16,Noida,New
+646,Lay's Classic Chips,Snacks,Lay's,352,10,316.8,4.7,228,4,1267.2,2025-05-17,Pune,New
+647,Haldiram Bhujia,Snacks,Haldiram,400,0,400,5,442,7,2800,2025-04-15,Pune,New
+648,Tata Salt,Groceries,Tata,352,30,246.4,4.6,50,5,1232,2025-06-25,Delhi,Returning
+649,Banana,Fruits,Fresh,373,0,373,3.9,136,3,1119,2025-05-14,Delhi,New
+650,Onion,Vegetables,Fresh,212,25,159,4.4,328,2,318,2025-04-15,Noida,Returning
+651,Potato,Vegetables,Fresh,116,0,116,4.6,15,4,464,2025-01-30,Mumbai,Returning
+652,Onion,Vegetables,Fresh,206,25,154.5,4.4,141,8,1236,2025-05-11,Mumbai,New
+653,Tata Salt,Groceries,Tata,247,5,234.65,5,278,6,1407.9,2025-03-31,Delhi,New
+654,Maggi Noodles,Instant Food,Nestle,437,25,327.75,4.4,28,7,2294.25,2025-01-12,Noida,New
+655,Haldiram Bhujia,Snacks,Haldiram,440,0,440,4,342,8,3520,2025-02-28,Pune,Returning
+656,Lay's Classic Chips,Snacks,Lay's,180,30,126,4,189,6,756,2025-03-02,Delhi,Returning
+657,Paneer,Dairy,Amul,227,25,170.25,4.4,170,10,1702.5,2025-05-03,Noida,Returning
+658,Potato,Vegetables,Fresh,459,20,367.2,4.8,262,1,367.2,2025-04-30,Noida,Returning
+659,Fortune Sunflower Oil,Groceries,Fortune,350,10,315,4.8,345,3,945,2025-01-14,Noida,Returning
+660,Britannia Good Day,Biscuits,Britannia,84,30,58.8,4.1,218,10,588,2025-01-08,Delhi,Returning
+661,Pepsi 2L,Beverages,Pepsi,477,10,429.3,3.9,463,9,3863.7,2025-04-21,Gurgaon,New
+662,Tata Salt,Groceries,Tata,84,15,71.4,4.1,303,3,214.2,2025-03-08,Pune,Returning
+663,Banana,Fruits,Fresh,290,0,290,4.2,102,4,1160,2025-05-16,Delhi,Returning
+664,Tomato,Vegetables,Fresh,204,5,193.8,4,311,4,775.2,2025-01-02,Gurgaon,New
+665,Aashirvaad Atta 5kg,Groceries,Aashirvaad,171,15,145.35,4.7,13,5,726.75,2025-04-06,Delhi,Returning
+666,Banana,Fruits,Fresh,186,20,148.8,4,384,2,297.6,2025-06-27,Pune,Returning
+667,Amul Gold Milk,Dairy,Amul,269,20,215.2,4.5,402,8,1721.6,2025-05-28,Pune,Returning
+668,Coca-Cola 750ml,Beverages,Coca-Cola,291,20,232.8,3.8,182,10,2328,2025-04-05,Pune,Returning
+669,Tata Salt,Groceries,Tata,275,30,192.5,4.5,241,5,962.5,2025-04-05,Gurgaon,Returning
+670,Britannia Good Day,Biscuits,Britannia,330,5,313.5,4,231,2,627,2025-01-03,Mumbai,Returning
+671,Maggi Noodles,Instant Food,Nestle,111,0,111,4.4,26,4,444,2025-05-20,Gurgaon,Returning
+672,Paneer,Dairy,Amul,414,30,289.8,4.8,57,5,1449,2025-01-14,Delhi,Returning
+673,Haldiram Bhujia,Snacks,Haldiram,361,25,270.75,4.6,12,8,2166,2025-01-22,Gurgaon,New
+674,Banana,Fruits,Fresh,311,0,311,4.7,277,2,622,2025-03-11,Mumbai,Returning
+675,Tata Salt,Groceries,Tata,49,0,49,4.1,178,1,49,2025-05-15,Mumbai,New
+676,Lay's Classic Chips,Snacks,Lay's,254,30,177.8,4.3,353,1,177.8,2025-03-07,Pune,New
+677,Onion,Vegetables,Fresh,45,25,33.75,4.4,289,7,236.25,2025-04-04,Mumbai,Returning
+678,Apple,Fruits,Fresh,500,20,400,4.3,59,3,1200,2025-04-06,Gurgaon,Returning
+679,Banana,Fruits,Fresh,134,0,134,4.6,8,3,402,2025-05-12,Mumbai,Returning
+680,Lay's Classic Chips,Snacks,Lay's,488,30,341.6,4.1,142,8,2732.8,2025-05-22,Gurgaon,Returning
+681,Fortune Sunflower Oil,Groceries,Fortune,498,15,423.3,4,199,7,2963.1,2025-03-12,Pune,New
+682,Curd,Dairy,Mother Dairy,351,20,280.8,4.2,233,5,1404,2025-05-25,Pune,New
+683,Maggi Noodles,Instant Food,Nestle,354,15,300.9,4.1,254,9,2708.1,2025-01-07,Mumbai,Returning
+684,Onion,Vegetables,Fresh,459,5,436.05,4.8,413,1,436.05,2025-01-16,Gurgaon,New
+685,Pepsi 2L,Beverages,Pepsi,382,15,324.7,4.2,344,2,649.4,2025-06-19,Gurgaon,Returning
+686,Tomato,Vegetables,Fresh,45,20,36,4.7,431,6,216,2025-05-13,Noida,New
+687,Apple,Fruits,Fresh,37,25,27.75,4.2,322,10,277.5,2025-02-22,Delhi,Returning
+688,Curd,Dairy,Mother Dairy,36,25,27,4.7,220,4,108,2025-04-04,Noida,New
+689,Amul Gold Milk,Dairy,Amul,363,15,308.55,5,380,1,308.55,2025-02-25,Mumbai,Returning
+690,Coca-Cola 750ml,Beverages,Coca-Cola,347,10,312.3,4.9,165,4,1249.2,2025-05-07,Gurgaon,New
+691,Banana,Fruits,Fresh,41,30,28.7,4.4,339,6,172.2,2025-05-11,Gurgaon,Returning
+692,Apple,Fruits,Fresh,308,25,231,4.2,458,5,1155,2025-02-14,Noida,New
+693,Paneer,Dairy,Amul,261,20,208.8,4.5,12,5,1044,2025-03-17,Delhi,Returning
+694,Curd,Dairy,Mother Dairy,456,30,319.2,4.2,409,9,2872.8,2025-01-09,Gurgaon,New
+695,Paneer,Dairy,Amul,486,25,364.5,3.9,276,6,2187,2025-06-20,Noida,Returning
+696,Maggi Noodles,Instant Food,Nestle,102,20,81.6,3.8,301,7,571.2,2025-04-10,Pune,New
+697,Amul Gold Milk,Dairy,Amul,102,20,81.6,4.8,226,2,163.2,2025-06-05,Delhi,Returning
+698,Banana,Fruits,Fresh,66,15,56.1,4.2,219,5,280.5,2025-03-08,Gurgaon,New
+699,Lay's Classic Chips,Snacks,Lay's,309,10,278.1,4.2,180,5,1390.5,2025-02-03,Gurgaon,New
+700,Maggi Noodles,Instant Food,Nestle,175,20,140,4.8,86,2,280,2025-06-25,Mumbai,New
+701,Amul Gold Milk,Dairy,Amul,119,20,95.2,4,455,9,856.8,2025-06-09,Pune,New
+702,Amul Gold Milk,Dairy,Amul,302,0,302,4,132,1,302,2025-04-12,Delhi,Returning
+703,Apple,Fruits,Fresh,138,10,124.2,4.6,131,1,124.2,2025-01-16,Gurgaon,Returning
+704,Fortune Sunflower Oil,Groceries,Fortune,375,0,375,4.9,333,1,375,2025-01-25,Delhi,Returning
+705,Onion,Vegetables,Fresh,451,15,383.35,4.1,463,7,2683.45,2025-04-22,Gurgaon,Returning
+706,Onion,Vegetables,Fresh,142,10,127.8,4.2,496,1,127.8,2025-04-06,Mumbai,Returning
+707,Curd,Dairy,Mother Dairy,488,10,439.2,4.1,41,1,439.2,2025-06-14,Pune,New
+708,Britannia Good Day,Biscuits,Britannia,465,25,348.75,4.1,194,8,2790,2025-05-22,Pune,Returning
+709,Tomato,Vegetables,Fresh,360,10,324,5,228,2,648,2025-06-07,Gurgaon,New
+710,Tata Salt,Groceries,Tata,27,30,18.9,4.9,68,10,189,2025-04-21,Mumbai,New
+711,Curd,Dairy,Mother Dairy,283,5,268.85,4.2,32,6,1613.1,2025-02-01,Mumbai,New
+712,Pepsi 2L,Beverages,Pepsi,36,10,32.4,4.9,364,3,97.2,2025-01-13,Noida,Returning
+713,Apple,Fruits,Fresh,428,10,385.2,4,146,6,2311.2,2025-06-28,Mumbai,New
+714,Maggi Noodles,Instant Food,Nestle,461,15,391.85,4.2,110,3,1175.55,2025-06-09,Pune,New
+715,Tata Salt,Groceries,Tata,103,5,97.85,4.5,338,8,782.8,2025-03-10,Noida,New
+716,Banana,Fruits,Fresh,481,0,481,4.7,50,10,4810,2025-02-05,Delhi,New
+717,Amul Gold Milk,Dairy,Amul,192,0,192,4.6,121,10,1920,2025-02-05,Gurgaon,New
+718,Tata Salt,Groceries,Tata,192,30,134.4,5,74,9,1209.6,2025-06-07,Mumbai,New
+719,Potato,Vegetables,Fresh,409,10,368.1,4.5,123,8,2944.8,2025-06-17,Noida,New
+720,Potato,Vegetables,Fresh,475,25,356.25,4.9,364,4,1425,2025-04-19,Noida,Returning
+721,Haldiram Bhujia,Snacks,Haldiram,131,0,131,4.8,108,2,262,2025-06-27,Gurgaon,New
+722,Aashirvaad Atta 5kg,Groceries,Aashirvaad,68,30,47.6,4.2,170,3,142.8,2025-06-08,Noida,New
+723,Fortune Sunflower Oil,Groceries,Fortune,395,25,296.25,4.8,78,6,1777.5,2025-05-04,Pune,Returning
+724,Britannia Good Day,Biscuits,Britannia,434,10,390.6,4.2,433,10,3906,2025-06-30,Delhi,New
+725,Apple,Fruits,Fresh,368,0,368,4.9,116,10,3680,2025-01-25,Delhi,Returning
+726,Banana,Fruits,Fresh,347,15,294.95,3.8,311,4,1179.8,2025-05-23,Delhi,Returning
+727,Potato,Vegetables,Fresh,305,25,228.75,4.3,398,7,1601.25,2025-01-06,Pune,New
+728,Tomato,Vegetables,Fresh,227,20,181.6,3.8,435,8,1452.8,2025-02-05,Gurgaon,Returning
+729,Paneer,Dairy,Amul,364,15,309.4,4.9,349,2,618.8,2025-03-04,Pune,Returning
+730,Lay's Classic Chips,Snacks,Lay's,382,30,267.4,4.6,190,9,2406.6,2025-06-14,Delhi,New
+731,Fortune Sunflower Oil,Groceries,Fortune,289,10,260.1,4.4,456,4,1040.4,2025-04-27,Delhi,Returning
+732,Curd,Dairy,Mother Dairy,50,15,42.5,4.2,438,10,425,2025-04-16,Noida,New
+733,Apple,Fruits,Fresh,260,10,234,3.8,397,2,468,2025-05-19,Mumbai,New
+734,Tata Salt,Groceries,Tata,82,0,82,3.9,87,5,410,2025-01-28,Pune,New
+735,Potato,Vegetables,Fresh,224,15,190.4,4.5,351,5,952,2025-02-17,Gurgaon,New
+736,Fortune Sunflower Oil,Groceries,Fortune,320,25,240,4.3,357,1,240,2025-04-03,Pune,Returning
+737,Britannia Good Day,Biscuits,Britannia,350,5,332.5,4.6,231,1,332.5,2025-04-28,Mumbai,New
+738,Apple,Fruits,Fresh,192,15,163.2,3.9,6,8,1305.6,2025-05-25,Pune,Returning
+739,Potato,Vegetables,Fresh,435,10,391.5,5,442,8,3132,2025-05-28,Delhi,Returning
+740,Tata Salt,Groceries,Tata,471,15,400.35,3.8,48,7,2802.45,2025-06-20,Noida,New
+741,Britannia Good Day,Biscuits,Britannia,53,30,37.1,4.4,266,9,333.9,2025-01-27,Noida,Returning
+742,Aashirvaad Atta 5kg,Groceries,Aashirvaad,112,15,95.2,4.6,121,5,476,2025-03-13,Noida,Returning
+743,Curd,Dairy,Mother Dairy,185,5,175.75,4,16,2,351.5,2025-03-20,Noida,Returning
+744,Tomato,Vegetables,Fresh,419,25,314.25,4.9,335,7,2199.75,2025-03-23,Delhi,Returning
+745,Coca-Cola 750ml,Beverages,Coca-Cola,408,20,326.4,4.9,76,2,652.8,2025-03-29,Pune,New
+746,Lay's Classic Chips,Snacks,Lay's,359,30,251.3,4.1,448,7,1759.1,2025-02-20,Mumbai,Returning
+747,Britannia Good Day,Biscuits,Britannia,48,5,45.6,4.9,241,3,136.8,2025-03-28,Gurgaon,Returning
+748,Potato,Vegetables,Fresh,432,30,302.4,4,325,5,1512,2025-01-13,Mumbai,Returning
+749,Onion,Vegetables,Fresh,500,20,400,4.2,101,2,800,2025-03-01,Gurgaon,New
+750,Apple,Fruits,Fresh,266,5,252.7,4,103,8,2021.6,2025-05-02,Gurgaon,Returning
+751,Lay's Classic Chips,Snacks,Lay's,369,30,258.3,4.1,56,2,516.6,2025-05-24,Gurgaon,Returning
+752,Apple,Fruits,Fresh,186,0,186,4.8,46,10,1860,2025-04-17,Gurgaon,Returning
+753,Lay's Classic Chips,Snacks,Lay's,183,5,173.85,4.3,286,8,1390.8,2025-02-11,Gurgaon,New
+754,Fortune Sunflower Oil,Groceries,Fortune,185,5,175.75,4,416,8,1406,2025-06-01,Noida,New
+755,Banana,Fruits,Fresh,251,10,225.9,4.2,461,3,677.7,2025-03-04,Pune,Returning
+756,Coca-Cola 750ml,Beverages,Coca-Cola,72,5,68.4,4.2,361,2,136.8,2025-04-07,Delhi,Returning
+757,Britannia Good Day,Biscuits,Britannia,114,0,114,5,337,2,228,2025-04-21,Noida,New
+758,Tomato,Vegetables,Fresh,245,10,220.5,4,249,3,661.5,2025-05-03,Pune,New
+759,Tata Salt,Groceries,Tata,413,30,289.1,4.3,177,9,2601.9,2025-03-03,Gurgaon,Returning
+760,Haldiram Bhujia,Snacks,Haldiram,87,30,60.9,4.4,165,10,609,2025-01-11,Mumbai,Returning
+761,Aashirvaad Atta 5kg,Groceries,Aashirvaad,500,5,475,4.3,200,8,3800,2025-05-14,Noida,Returning
+762,Britannia Good Day,Biscuits,Britannia,159,15,135.15,3.9,42,10,1351.5,2025-06-23,Noida,New
+763,Aashirvaad Atta 5kg,Groceries,Aashirvaad,464,0,464,4.6,351,4,1856,2025-05-04,Gurgaon,New
+764,Haldiram Bhujia,Snacks,Haldiram,125,5,118.75,3.8,298,1,118.75,2025-04-13,Mumbai,Returning
+765,Amul Gold Milk,Dairy,Amul,141,25,105.75,4.2,316,7,740.25,2025-05-07,Gurgaon,New
+766,Onion,Vegetables,Fresh,480,0,480,4.9,322,5,2400,2025-05-23,Delhi,Returning
+767,Potato,Vegetables,Fresh,447,10,402.3,5,251,10,4023,2025-03-30,Noida,New
+768,Apple,Fruits,Fresh,295,30,206.5,4.7,361,1,206.5,2025-04-26,Pune,Returning
+769,Maggi Noodles,Instant Food,Nestle,30,30,21,4.9,152,5,105,2025-05-27,Gurgaon,New
+770,Lay's Classic Chips,Snacks,Lay's,160,30,112,4.5,466,3,336,2025-02-08,Gurgaon,Returning
+771,Coca-Cola 750ml,Beverages,Coca-Cola,59,25,44.25,3.9,386,4,177,2025-03-22,Mumbai,New
+772,Maggi Noodles,Instant Food,Nestle,58,30,40.6,4,33,4,162.4,2025-06-16,Delhi,New
+773,Banana,Fruits,Fresh,171,15,145.35,4.4,232,10,1453.5,2025-02-05,Pune,New
+774,Banana,Fruits,Fresh,293,20,234.4,3.9,128,7,1640.8,2025-05-12,Gurgaon,Returning
+775,Aashirvaad Atta 5kg,Groceries,Aashirvaad,423,15,359.55,4.1,203,2,719.1,2025-04-12,Gurgaon,New
+776,Paneer,Dairy,Amul,416,30,291.2,4.1,268,1,291.2,2025-02-27,Mumbai,New
+777,Lay's Classic Chips,Snacks,Lay's,350,15,297.5,4.7,29,3,892.5,2025-02-18,Delhi,Returning
+778,Fortune Sunflower Oil,Groceries,Fortune,137,5,130.15,4.8,217,6,780.9,2025-03-06,Noida,Returning
+779,Maggi Noodles,Instant Food,Nestle,44,30,30.8,4.4,385,9,277.2,2025-01-04,Gurgaon,Returning
+780,Fortune Sunflower Oil,Groceries,Fortune,46,30,32.2,4.3,62,9,289.8,2025-02-24,Noida,Returning
+781,Britannia Good Day,Biscuits,Britannia,41,25,30.75,4.7,462,8,246,2025-06-10,Noida,Returning
+782,Tata Salt,Groceries,Tata,92,15,78.2,4.2,143,9,703.8,2025-05-29,Gurgaon,New
+783,Onion,Vegetables,Fresh,60,15,51,3.9,9,4,204,2025-06-22,Gurgaon,New
+784,Onion,Vegetables,Fresh,30,15,25.5,4.1,456,9,229.5,2025-04-27,Pune,New
+785,Paneer,Dairy,Amul,363,25,272.25,4.2,78,6,1633.5,2025-06-19,Noida,Returning
+786,Haldiram Bhujia,Snacks,Haldiram,286,0,286,4.4,473,9,2574,2025-02-07,Pune,New
+787,Tata Salt,Groceries,Tata,59,10,53.1,4.1,383,2,106.2,2025-01-09,Noida,Returning
+788,Paneer,Dairy,Amul,360,0,360,4.7,192,7,2520,2025-04-30,Noida,Returning
+789,Pepsi 2L,Beverages,Pepsi,33,15,28.05,4.4,148,8,224.4,2025-05-23,Pune,Returning
+790,Onion,Vegetables,Fresh,161,25,120.75,3.9,65,3,362.25,2025-03-30,Noida,Returning
+791,Maggi Noodles,Instant Food,Nestle,456,25,342,4.4,485,8,2736,2025-01-15,Noida,New
+792,Aashirvaad Atta 5kg,Groceries,Aashirvaad,137,15,116.45,4.4,347,5,582.25,2025-01-18,Delhi,Returning
+793,Britannia Good Day,Biscuits,Britannia,186,20,148.8,4,30,7,1041.6,2025-02-17,Noida,Returning
+794,Haldiram Bhujia,Snacks,Haldiram,204,5,193.8,5,239,5,969,2025-04-23,Delhi,Returning
+795,Paneer,Dairy,Amul,306,15,260.1,4.6,213,4,1040.4,2025-05-06,Noida,New
+796,Curd,Dairy,Mother Dairy,71,10,63.9,4.6,298,3,191.7,2025-04-13,Mumbai,New
+797,Banana,Fruits,Fresh,465,10,418.5,4.8,124,6,2511,2025-04-03,Gurgaon,New
+798,Britannia Good Day,Biscuits,Britannia,249,30,174.3,4.9,35,6,1045.8,2025-04-25,Gurgaon,Returning
+799,Tata Salt,Groceries,Tata,464,20,371.2,4.6,398,9,3340.8,2025-01-30,Gurgaon,New
+800,Tata Salt,Groceries,Tata,276,15,234.6,4.7,412,9,2111.4,2025-06-29,Noida,Returning
+801,Aashirvaad Atta 5kg,Groceries,Aashirvaad,139,20,111.2,4.4,329,8,889.6,2025-05-03,Delhi,New
+802,Pepsi 2L,Beverages,Pepsi,160,20,128,4.5,484,4,512,2025-05-25,Noida,Returning
+803,Banana,Fruits,Fresh,91,20,72.8,4,303,2,145.6,2025-04-04,Mumbai,Returning
+804,Pepsi 2L,Beverages,Pepsi,283,20,226.4,4.8,95,3,679.2,2025-01-12,Gurgaon,New
+805,Fortune Sunflower Oil,Groceries,Fortune,182,20,145.6,4.8,210,6,873.6,2025-02-17,Noida,Returning
+806,Banana,Fruits,Fresh,151,0,151,5,37,3,453,2025-02-05,Pune,Returning
+807,Paneer,Dairy,Amul,63,25,47.25,4.6,127,1,47.25,2025-05-30,Gurgaon,New
+808,Lay's Classic Chips,Snacks,Lay's,299,30,209.3,4.5,454,6,1255.8,2025-02-13,Delhi,New
+809,Banana,Fruits,Fresh,96,25,72,4.3,350,4,288,2025-04-06,Mumbai,Returning
+810,Tomato,Vegetables,Fresh,465,30,325.5,4.5,382,4,1302,2025-06-01,Delhi,New
+811,Lay's Classic Chips,Snacks,Lay's,188,20,150.4,3.9,160,9,1353.6,2025-05-14,Delhi,Returning
+812,Coca-Cola 750ml,Beverages,Coca-Cola,107,15,90.95,4.1,37,5,454.75,2025-01-04,Noida,New
+813,Apple,Fruits,Fresh,313,5,297.35,4,296,10,2973.5,2025-05-28,Mumbai,Returning
+814,Maggi Noodles,Instant Food,Nestle,399,0,399,4.2,67,3,1197,2025-04-24,Delhi,Returning
+815,Britannia Good Day,Biscuits,Britannia,45,20,36,4.9,92,1,36,2025-06-27,Gurgaon,Returning
+816,Paneer,Dairy,Amul,132,15,112.2,4.5,458,4,448.8,2025-03-20,Delhi,New
+817,Pepsi 2L,Beverages,Pepsi,222,30,155.4,4.5,309,4,621.6,2025-06-14,Pune,New
+818,Apple,Fruits,Fresh,226,10,203.4,4.9,351,10,2034,2025-03-09,Noida,New
+819,Amul Gold Milk,Dairy,Amul,403,15,342.55,4.3,173,6,2055.3,2025-04-14,Mumbai,Returning
+820,Tomato,Vegetables,Fresh,120,10,108,5,41,8,864,2025-03-11,Noida,Returning
+821,Maggi Noodles,Instant Food,Nestle,300,5,285,4.4,317,9,2565,2025-02-03,Mumbai,Returning
+822,Pepsi 2L,Beverages,Pepsi,123,10,110.7,4.2,239,6,664.2,2025-06-11,Noida,Returning
+823,Curd,Dairy,Mother Dairy,346,25,259.5,4.2,232,6,1557,2025-01-09,Pune,New
+824,Coca-Cola 750ml,Beverages,Coca-Cola,468,30,327.6,4.8,47,3,982.8,2025-04-14,Pune,Returning
+825,Pepsi 2L,Beverages,Pepsi,45,5,42.75,3.9,288,4,171,2025-04-22,Delhi,New
+826,Amul Gold Milk,Dairy,Amul,72,10,64.8,4.5,366,8,518.4,2025-04-24,Mumbai,Returning
+827,Maggi Noodles,Instant Food,Nestle,303,25,227.25,4.1,212,9,2045.25,2025-03-19,Delhi,New
+828,Apple,Fruits,Fresh,451,20,360.8,4.2,408,10,3608,2025-02-20,Delhi,Returning
+829,Paneer,Dairy,Amul,138,25,103.5,3.9,471,1,103.5,2025-02-21,Delhi,Returning
+830,Tata Salt,Groceries,Tata,352,25,264,4.4,392,1,264,2025-04-21,Noida,Returning
+831,Pepsi 2L,Beverages,Pepsi,311,5,295.45,4.8,434,7,2068.15,2025-05-16,Gurgaon,New
+832,Maggi Noodles,Instant Food,Nestle,444,10,399.6,4.1,471,7,2797.2,2025-03-21,Mumbai,Returning
+833,Tomato,Vegetables,Fresh,203,10,182.7,4.4,332,8,1461.6,2025-03-11,Noida,New
+834,Haldiram Bhujia,Snacks,Haldiram,309,10,278.1,4.2,226,5,1390.5,2025-01-04,Pune,Returning
+835,Banana,Fruits,Fresh,235,20,188,4.1,124,8,1504,2025-06-15,Noida,Returning
+836,Apple,Fruits,Fresh,256,25,192,4.7,459,9,1728,2025-03-20,Delhi,New
+837,Tata Salt,Groceries,Tata,75,15,63.75,4.6,260,10,637.5,2025-01-22,Gurgaon,New
+838,Coca-Cola 750ml,Beverages,Coca-Cola,481,0,481,4.1,376,7,3367,2025-03-16,Pune,Returning
+839,Britannia Good Day,Biscuits,Britannia,382,25,286.5,4.3,20,3,859.5,2025-02-09,Delhi,Returning
+840,Tata Salt,Groceries,Tata,110,15,93.5,4.4,159,8,748,2025-06-20,Gurgaon,New
+841,Pepsi 2L,Beverages,Pepsi,485,0,485,4.2,91,9,4365,2025-01-05,Noida,New
+842,Apple,Fruits,Fresh,204,20,163.2,4.9,443,6,979.2,2025-01-03,Gurgaon,New
+843,Maggi Noodles,Instant Food,Nestle,422,25,316.5,4.5,175,2,633,2025-06-11,Gurgaon,New
+844,Tata Salt,Groceries,Tata,168,15,142.8,5,187,3,428.4,2025-06-05,Gurgaon,Returning
+845,Curd,Dairy,Mother Dairy,210,20,168,4.8,375,5,840,2025-06-30,Mumbai,Returning
+846,Potato,Vegetables,Fresh,382,0,382,5,277,10,3820,2025-04-16,Mumbai,New
+847,Apple,Fruits,Fresh,299,20,239.2,4.5,481,3,717.6,2025-06-17,Mumbai,New
+848,Pepsi 2L,Beverages,Pepsi,95,0,95,4,233,9,855,2025-04-10,Noida,Returning
+849,Britannia Good Day,Biscuits,Britannia,184,15,156.4,4.3,366,3,469.2,2025-05-08,Noida,New
+850,Tata Salt,Groceries,Tata,380,25,285,3.8,311,7,1995,2025-04-02,Delhi,Returning
+851,Amul Gold Milk,Dairy,Amul,55,25,41.25,4.2,454,5,206.25,2025-05-07,Noida,New
+852,Britannia Good Day,Biscuits,Britannia,178,0,178,4.9,473,7,1246,2025-06-12,Mumbai,Returning
+853,Fortune Sunflower Oil,Groceries,Fortune,94,15,79.9,4.8,432,5,399.5,2025-04-14,Delhi,New
+854,Tomato,Vegetables,Fresh,204,10,183.6,4.9,175,7,1285.2,2025-03-11,Gurgaon,Returning
+855,Banana,Fruits,Fresh,439,15,373.15,4.8,400,4,1492.6,2025-04-30,Gurgaon,Returning
+856,Maggi Noodles,Instant Food,Nestle,428,25,321,4.3,56,8,2568,2025-05-25,Noida,New
+857,Paneer,Dairy,Amul,61,5,57.95,4.7,6,5,289.75,2025-03-03,Delhi,Returning
+858,Onion,Vegetables,Fresh,346,25,259.5,4.7,174,5,1297.5,2025-01-17,Pune,New
+859,Onion,Vegetables,Fresh,231,5,219.45,4.5,415,10,2194.5,2025-04-16,Delhi,New
+860,Onion,Vegetables,Fresh,432,30,302.4,3.9,53,7,2116.8,2025-04-29,Noida,New
+861,Curd,Dairy,Mother Dairy,344,0,344,4.9,294,5,1720,2025-02-06,Pune,New
+862,Potato,Vegetables,Fresh,362,25,271.5,4.9,289,10,2715,2025-04-22,Pune,Returning
+863,Aashirvaad Atta 5kg,Groceries,Aashirvaad,115,10,103.5,3.8,247,10,1035,2025-05-01,Delhi,New
+864,Pepsi 2L,Beverages,Pepsi,143,0,143,4,438,5,715,2025-01-10,Gurgaon,New
+865,Curd,Dairy,Mother Dairy,357,5,339.15,4.9,164,6,2034.9,2025-06-22,Pune,Returning
+866,Lay's Classic Chips,Snacks,Lay's,215,15,182.75,4.9,115,7,1279.25,2025-05-09,Gurgaon,New
+867,Maggi Noodles,Instant Food,Nestle,205,0,205,4.9,184,2,410,2025-04-21,Noida,New
+868,Coca-Cola 750ml,Beverages,Coca-Cola,137,30,95.9,4.5,419,7,671.3,2025-04-08,Pune,Returning
+869,Fortune Sunflower Oil,Groceries,Fortune,295,30,206.5,4.2,267,6,1239,2025-02-17,Delhi,New
+870,Britannia Good Day,Biscuits,Britannia,43,20,34.4,4.6,193,8,275.2,2025-03-02,Mumbai,New
+871,Onion,Vegetables,Fresh,361,20,288.8,4.2,490,9,2599.2,2025-02-26,Gurgaon,New
+872,Apple,Fruits,Fresh,423,5,401.85,4,89,1,401.85,2025-03-02,Delhi,Returning
+873,Onion,Vegetables,Fresh,37,25,27.75,4,177,4,111,2025-02-27,Delhi,Returning
+874,Apple,Fruits,Fresh,233,10,209.7,4.6,272,7,1467.9,2025-06-23,Pune,Returning
+875,Potato,Vegetables,Fresh,251,25,188.25,3.9,207,10,1882.5,2025-06-19,Pune,Returning
+876,Amul Gold Milk,Dairy,Amul,321,20,256.8,4.7,480,9,2311.2,2025-03-21,Gurgaon,Returning
+877,Tata Salt,Groceries,Tata,482,5,457.9,4.3,363,5,2289.5,2025-05-19,Noida,Returning
+878,Fortune Sunflower Oil,Groceries,Fortune,160,25,120,4.1,27,1,120,2025-01-14,Mumbai,New
+879,Haldiram Bhujia,Snacks,Haldiram,200,5,190,4.3,349,1,190,2025-03-05,Pune,New
+880,Tata Salt,Groceries,Tata,273,10,245.7,4.7,177,2,491.4,2025-03-03,Gurgaon,New
+881,Curd,Dairy,Mother Dairy,42,20,33.6,3.9,275,9,302.4,2025-04-22,Gurgaon,Returning
+882,Fortune Sunflower Oil,Groceries,Fortune,45,25,33.75,4.2,24,2,67.5,2025-03-27,Pune,Returning
+883,Amul Gold Milk,Dairy,Amul,477,5,453.15,4.5,285,4,1812.6,2025-05-14,Mumbai,New
+884,Britannia Good Day,Biscuits,Britannia,481,10,432.9,4.5,219,4,1731.6,2025-04-30,Delhi,Returning
+885,Coca-Cola 750ml,Beverages,Coca-Cola,174,5,165.3,4.4,248,6,991.8,2025-03-04,Mumbai,Returning
+886,Curd,Dairy,Mother Dairy,55,10,49.5,4.7,382,4,198,2025-02-26,Delhi,New
+887,Banana,Fruits,Fresh,381,30,266.7,4.9,8,1,266.7,2025-05-15,Delhi,New
+888,Tomato,Vegetables,Fresh,147,30,102.9,4.3,96,6,617.4,2025-02-19,Mumbai,New
+889,Britannia Good Day,Biscuits,Britannia,237,20,189.6,4.3,360,3,568.8,2025-05-11,Noida,New
+890,Amul Gold Milk,Dairy,Amul,308,5,292.6,4.9,373,1,292.6,2025-01-08,Noida,New
+891,Tata Salt,Groceries,Tata,298,10,268.2,4.9,108,6,1609.2,2025-04-10,Gurgaon,Returning
+892,Pepsi 2L,Beverages,Pepsi,245,25,183.75,4.1,184,1,183.75,2025-05-07,Delhi,Returning
+893,Coca-Cola 750ml,Beverages,Coca-Cola,236,20,188.8,4.8,368,6,1132.8,2025-03-24,Noida,New
+894,Coca-Cola 750ml,Beverages,Coca-Cola,211,15,179.35,4.7,55,1,179.35,2025-04-25,Mumbai,Returning
+895,Banana,Fruits,Fresh,404,20,323.2,4.2,450,10,3232,2025-04-02,Gurgaon,Returning
+896,Aashirvaad Atta 5kg,Groceries,Aashirvaad,366,10,329.4,5,274,9,2964.6,2025-01-19,Mumbai,Returning
+897,Lay's Classic Chips,Snacks,Lay's,255,10,229.5,4.4,450,6,1377,2025-04-12,Pune,Returning
+898,Haldiram Bhujia,Snacks,Haldiram,275,20,220,3.9,136,8,1760,2025-04-03,Gurgaon,Returning
+899,Banana,Fruits,Fresh,415,10,373.5,4.3,76,3,1120.5,2025-03-11,Pune,New
+900,Aashirvaad Atta 5kg,Groceries,Aashirvaad,391,20,312.8,4.3,466,4,1251.2,2025-05-02,Pune,Returning
+901,Lay's Classic Chips,Snacks,Lay's,457,0,457,4.5,323,3,1371,2025-06-16,Mumbai,Returning
+902,Fortune Sunflower Oil,Groceries,Fortune,466,30,326.2,4.9,250,8,2609.6,2025-04-16,Delhi,New
+903,Banana,Fruits,Fresh,292,5,277.4,4.1,125,9,2496.6,2025-01-13,Delhi,Returning
+904,Apple,Fruits,Fresh,487,10,438.3,4.6,290,2,876.6,2025-02-26,Pune,New
+905,Tomato,Vegetables,Fresh,437,15,371.45,4.9,266,6,2228.7,2025-04-21,Delhi,New
+906,Curd,Dairy,Mother Dairy,311,10,279.9,4,461,10,2799,2025-01-24,Gurgaon,Returning
+907,Aashirvaad Atta 5kg,Groceries,Aashirvaad,342,10,307.8,4.7,292,6,1846.8,2025-05-14,Pune,Returning
+908,Coca-Cola 750ml,Beverages,Coca-Cola,180,0,180,4,471,2,360,2025-04-30,Gurgaon,Returning
+909,Pepsi 2L,Beverages,Pepsi,98,25,73.5,4,381,4,294,2025-04-13,Gurgaon,New
+910,Haldiram Bhujia,Snacks,Haldiram,336,0,336,4.6,219,9,3024,2025-04-18,Gurgaon,Returning
+911,Tata Salt,Groceries,Tata,115,20,92,4.7,23,3,276,2025-01-20,Delhi,New
+912,Tomato,Vegetables,Fresh,429,20,343.2,3.9,307,3,1029.6,2025-05-11,Delhi,Returning
+913,Pepsi 2L,Beverages,Pepsi,389,10,350.1,4.3,309,2,700.2,2025-05-09,Delhi,New
+914,Lay's Classic Chips,Snacks,Lay's,454,0,454,4.7,255,6,2724,2025-04-25,Mumbai,Returning
+915,Onion,Vegetables,Fresh,89,20,71.2,4.9,322,2,142.4,2025-01-13,Noida,New
+916,Banana,Fruits,Fresh,211,15,179.35,3.9,285,1,179.35,2025-01-15,Delhi,New
+917,Lay's Classic Chips,Snacks,Lay's,315,0,315,3.8,445,3,945,2025-06-17,Mumbai,New
+918,Potato,Vegetables,Fresh,67,5,63.65,4.3,428,8,509.2,2025-03-16,Mumbai,New
+919,Potato,Vegetables,Fresh,102,10,91.8,4.7,93,7,642.6,2025-05-26,Gurgaon,Returning
+920,Apple,Fruits,Fresh,386,0,386,4.2,325,6,2316,2025-02-21,Pune,Returning
+921,Lay's Classic Chips,Snacks,Lay's,290,10,261,4.3,327,8,2088,2025-04-19,Delhi,New
+922,Amul Gold Milk,Dairy,Amul,428,15,363.8,4.6,118,5,1819,2025-06-17,Pune,Returning
+923,Lay's Classic Chips,Snacks,Lay's,284,15,241.4,5,181,8,1931.2,2025-01-03,Mumbai,Returning
+924,Apple,Fruits,Fresh,341,5,323.95,3.9,163,4,1295.8,2025-02-04,Gurgaon,New
+925,Onion,Vegetables,Fresh,476,20,380.8,4.9,15,8,3046.4,2025-06-04,Pune,Returning
+926,Apple,Fruits,Fresh,460,0,460,5,443,4,1840,2025-04-09,Noida,Returning
+927,Onion,Vegetables,Fresh,394,0,394,4.6,152,5,1970,2025-06-23,Gurgaon,Returning
+928,Banana,Fruits,Fresh,216,20,172.8,4.1,50,8,1382.4,2025-06-18,Mumbai,New
+929,Britannia Good Day,Biscuits,Britannia,110,5,104.5,5,499,5,522.5,2025-06-06,Mumbai,Returning
+930,Tomato,Vegetables,Fresh,255,15,216.75,4.3,134,6,1300.5,2025-01-30,Noida,Returning
+931,Potato,Vegetables,Fresh,317,15,269.45,4.1,236,9,2425.05,2025-01-08,Pune,Returning
+932,Tomato,Vegetables,Fresh,174,0,174,4.6,492,5,870,2025-06-06,Pune,Returning
+933,Potato,Vegetables,Fresh,126,25,94.5,4.1,80,7,661.5,2025-04-25,Gurgaon,New
+934,Haldiram Bhujia,Snacks,Haldiram,281,25,210.75,4.8,336,2,421.5,2025-04-19,Gurgaon,New
+935,Tomato,Vegetables,Fresh,227,30,158.9,4.8,40,1,158.9,2025-04-02,Noida,Returning
+936,Tomato,Vegetables,Fresh,283,20,226.4,4.1,439,9,2037.6,2025-05-24,Noida,New
+937,Paneer,Dairy,Amul,235,30,164.5,4.3,233,5,822.5,2025-06-15,Delhi,Returning
+938,Coca-Cola 750ml,Beverages,Coca-Cola,145,0,145,4.5,389,2,290,2025-01-28,Noida,Returning
+939,Aashirvaad Atta 5kg,Groceries,Aashirvaad,193,10,173.7,4.6,368,3,521.1,2025-06-06,Mumbai,Returning
+940,Maggi Noodles,Instant Food,Nestle,188,25,141,3.9,254,7,987,2025-05-03,Noida,Returning
+941,Lay's Classic Chips,Snacks,Lay's,359,20,287.2,4.4,256,2,574.4,2025-02-02,Noida,New
+942,Lay's Classic Chips,Snacks,Lay's,100,30,70,4.4,363,10,700,2025-05-31,Pune,New
+943,Onion,Vegetables,Fresh,170,0,170,4,110,5,850,2025-04-08,Noida,Returning
+944,Paneer,Dairy,Amul,374,20,299.2,4.1,15,8,2393.6,2025-01-16,Mumbai,New
+945,Fortune Sunflower Oil,Groceries,Fortune,270,25,202.5,4.1,200,9,1822.5,2025-04-13,Noida,New
+946,Fortune Sunflower Oil,Groceries,Fortune,180,20,144,4.4,75,3,432,2025-03-15,Mumbai,Returning
+947,Tata Salt,Groceries,Tata,46,25,34.5,3.9,75,6,207,2025-04-03,Mumbai,Returning
+948,Maggi Noodles,Instant Food,Nestle,381,20,304.8,4.3,5,6,1828.8,2025-01-18,Pune,New
+949,Coca-Cola 750ml,Beverages,Coca-Cola,197,5,187.15,4.3,397,1,187.15,2025-06-23,Mumbai,Returning
+950,Onion,Vegetables,Fresh,278,5,264.1,4,460,10,2641,2025-05-21,Gurgaon,Returning
+951,Coca-Cola 750ml,Beverages,Coca-Cola,212,10,190.8,4.6,308,5,954,2025-03-05,Noida,Returning
+952,Potato,Vegetables,Fresh,274,30,191.8,4,324,8,1534.4,2025-03-10,Pune,Returning
+953,Coca-Cola 750ml,Beverages,Coca-Cola,460,15,391,4.9,464,7,2737,2025-02-08,Delhi,New
+954,Maggi Noodles,Instant Food,Nestle,307,5,291.65,4.7,378,4,1166.6,2025-05-21,Mumbai,Returning
+955,Britannia Good Day,Biscuits,Britannia,306,20,244.8,4.7,252,9,2203.2,2025-01-22,Pune,Returning
+956,Haldiram Bhujia,Snacks,Haldiram,354,10,318.6,4.4,186,7,2230.2,2025-01-25,Delhi,New
+957,Curd,Dairy,Mother Dairy,273,10,245.7,4.2,475,1,245.7,2025-03-21,Gurgaon,New
+958,Coca-Cola 750ml,Beverages,Coca-Cola,215,25,161.25,4.5,179,6,967.5,2025-06-06,Pune,New
+959,Fortune Sunflower Oil,Groceries,Fortune,283,0,283,4,102,5,1415,2025-03-20,Noida,New
+960,Lay's Classic Chips,Snacks,Lay's,463,15,393.55,4.4,416,6,2361.3,2025-02-07,Mumbai,New
+961,Paneer,Dairy,Amul,70,10,63,4.7,96,7,441,2025-05-13,Pune,Returning
+962,Britannia Good Day,Biscuits,Britannia,103,20,82.4,4.8,34,1,82.4,2025-04-04,Noida,New
+963,Onion,Vegetables,Fresh,332,5,315.4,4.3,260,2,630.8,2025-03-21,Pune,New
+964,Maggi Noodles,Instant Food,Nestle,270,10,243,4.4,61,3,729,2025-01-30,Delhi,New
+965,Tomato,Vegetables,Fresh,192,30,134.4,4.1,93,5,672,2025-02-18,Noida,Returning
+966,Fortune Sunflower Oil,Groceries,Fortune,62,0,62,4.1,249,8,496,2025-05-05,Noida,New
+967,Lay's Classic Chips,Snacks,Lay's,25,5,23.75,4.1,405,5,118.75,2025-06-03,Gurgaon,New
+968,Pepsi 2L,Beverages,Pepsi,48,0,48,5,75,4,192,2025-06-10,Delhi,Returning
+969,Lay's Classic Chips,Snacks,Lay's,228,30,159.6,4.7,43,7,1117.2,2025-01-12,Gurgaon,New
+970,Lay's Classic Chips,Snacks,Lay's,131,10,117.9,3.9,301,10,1179,2025-02-14,Mumbai,Returning
+971,Banana,Fruits,Fresh,31,5,29.45,4.4,90,3,88.35,2025-06-04,Mumbai,New
+972,Lay's Classic Chips,Snacks,Lay's,106,25,79.5,3.9,40,4,318,2025-05-14,Gurgaon,New
+973,Apple,Fruits,Fresh,128,20,102.4,3.8,118,3,307.2,2025-05-29,Gurgaon,New
+974,Lay's Classic Chips,Snacks,Lay's,430,30,301,3.9,213,2,602,2025-02-05,Noida,New
+975,Lay's Classic Chips,Snacks,Lay's,299,5,284.05,4.9,220,3,852.15,2025-06-12,Gurgaon,Returning
+976,Onion,Vegetables,Fresh,167,15,141.95,4.8,10,4,567.8,2025-04-08,Gurgaon,Returning
+977,Haldiram Bhujia,Snacks,Haldiram,24,0,24,4.3,341,5,120,2025-04-24,Noida,New
+978,Amul Gold Milk,Dairy,Amul,335,25,251.25,4.5,275,7,1758.75,2025-06-20,Gurgaon,New
+979,Aashirvaad Atta 5kg,Groceries,Aashirvaad,474,15,402.9,4.2,249,8,3223.2,2025-05-31,Noida,New
+980,Curd,Dairy,Mother Dairy,207,25,155.25,4.2,459,7,1086.75,2025-01-05,Mumbai,Returning
+981,Tata Salt,Groceries,Tata,250,25,187.5,3.9,115,5,937.5,2025-01-15,Noida,New
+982,Lay's Classic Chips,Snacks,Lay's,323,15,274.55,3.8,57,2,549.1,2025-02-22,Mumbai,New
+983,Tata Salt,Groceries,Tata,157,20,125.6,4.1,134,2,251.2,2025-06-18,Gurgaon,New
+984,Coca-Cola 750ml,Beverages,Coca-Cola,379,15,322.15,4.8,294,2,644.3,2025-05-14,Mumbai,New
+985,Tata Salt,Groceries,Tata,482,30,337.4,4.1,221,8,2699.2,2025-05-31,Delhi,New
+986,Britannia Good Day,Biscuits,Britannia,277,20,221.6,4.8,460,9,1994.4,2025-05-14,Pune,New
+987,Maggi Noodles,Instant Food,Nestle,404,15,343.4,4.4,50,10,3434,2025-03-01,Gurgaon,New
+988,Lay's Classic Chips,Snacks,Lay's,373,10,335.7,4.1,458,1,335.7,2025-02-04,Delhi,Returning
+989,Apple,Fruits,Fresh,447,15,379.95,3.9,327,2,759.9,2025-02-26,Noida,Returning
+990,Aashirvaad Atta 5kg,Groceries,Aashirvaad,179,25,134.25,4.2,72,10,1342.5,2025-05-07,Delhi,New
+991,Paneer,Dairy,Amul,478,15,406.3,4,181,4,1625.2,2025-01-01,Delhi,New
+992,Britannia Good Day,Biscuits,Britannia,366,15,311.1,4.5,471,7,2177.7,2025-02-27,Gurgaon,New
+993,Apple,Fruits,Fresh,435,20,348,4.4,107,2,696,2025-06-03,Pune,New
+994,Apple,Fruits,Fresh,192,20,153.6,4.1,240,2,307.2,2025-05-06,Noida,Returning
+995,Onion,Vegetables,Fresh,445,5,422.75,4.7,498,6,2536.5,2025-05-22,Delhi,Returning
+996,Paneer,Dairy,Amul,322,15,273.7,3.8,155,7,1915.9,2025-06-01,Pune,Returning
+997,Haldiram Bhujia,Snacks,Haldiram,186,25,139.5,4.9,317,9,1255.5,2025-02-14,Gurgaon,Returning
+998,Britannia Good Day,Biscuits,Britannia,91,5,86.45,4.2,293,2,172.9,2025-03-29,Pune,Returning
+999,Tata Salt,Groceries,Tata,71,20,56.8,4.7,143,7,397.6,2025-03-30,Pune,New
+1000,Curd,Dairy,Mother Dairy,263,30,184.1,4.9,166,9,1656.9,2025-01-05,Gurgaon,Returning

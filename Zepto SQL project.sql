@@ -1,124 +1,115 @@
-drop table if exists zepto;
 
-create table zepto(
-sku_id SERIAL PRIMARY KEY,
-category VARCHAR(120),
-name VARCHAR(150) NOT NULL,
-mrp NUMERIC(8,2),
-discountPercent NUMERIC(5,2),
-availableQuantity INTEGER,
-discountedSellingPrice NUMERIC(8,2),
-weightInGms INTEGER,
-outOfStock BOOLEAN,
-quantity INTEGER
-);
+-- Zepto Sales Analysis
 
---data exploration
+-- 1. Show the first 10 records from the Zepto sales dataset.
+SELECT * FROM zepto_sales LIMIT 10;
 
---count of rows
-SELECR COUNT(*) FROM zepto;
+-- 2. Display all unique product categories.
+SELECT DISTINCT category FROM zepto_sales;
 
---sample data
-SELECT * FROM zepto
-LIMIT 10;
+-- 3. Find products whose selling price is greater than 200.
+SELECT * FROM zepto_sales WHERE selling_price > 200;
 
-ALTER SEQUENCE sku_id RESTART WITH 1;
+-- 4. Show all products sold in Delhi.
+SELECT * FROM zepto_sales WHERE city = 'Delhi';
 
---null value 
-SELECT * FROM zepto
-WHERE name IS NULL
-OR
-category IS NULL
-OR
-mrp IS NULL
-OR
-discountPercent IS NULL
-OR
-weightInGms IS NULL
-OR
-availableQuantity IS NULL
-OR
-outofstock IS NULL
-OR
-quantity IS NULL;
+-- 5. Find products with discount between 10% and 30%.
+SELECT * FROM zepto_sales WHERE discount_pct BETWEEN 10 AND 30;
 
---different product categories
-SELECT DISTINCT category
-FROM ZEPTO
-ORDER BY CATEGORY;
+-- 6. Display products whose brand name starts with A.
+SELECT * FROM zepto_sales WHERE brand LIKE 'A%';
 
---product in stock vs out of stock
-SELECT outofstock, COUNT(sku_id)
-FROM zepto
-GROUP BY outofstock;
+-- 7. Show the top 10 highest revenue products.
+SELECT * FROM zepto_sales ORDER BY revenue DESC LIMIT 10;
 
---product name present multiple times
-SELECT name, COUNT(sku_id) as "Number of SKUs"
-FROM zepto
-GROUP BY name
-HAVING count (sku_id) > 1
-ORDER BY count (sku_id) DESC;
+-- 8. Count total products in each category.
+SELECT category, COUNT(*) AS products
+FROM zepto_sales
+GROUP BY category;
 
---data analysis
+-- 9. Calculate total revenue for each city.
+SELECT city, SUM(revenue) AS revenue
+FROM zepto_sales
+GROUP BY city;
 
--- Q1. Find the top 10 best-value products based on the discount percentage.
+-- 10. Find average rating for each brand.
+SELECT brand, AVG(rating) AS avg_rating
+FROM zepto_sales
+GROUP BY brand;
 
-SELECT DISTINCT name, mrp, discountPercent
-FROM zepto
-ORDER BY discountPercent DESC
-LIMIT 10;
+-- 11. Find the maximum selling price in each category.
+SELECT category, MAX(selling_price) AS max_price
+FROM zepto_sales
+GROUP BY category;
 
--- Q2.What are the Products with High MRP but Out of Stock.
+-- 12. Find the minimum selling price in each category.
+SELECT category, MIN(selling_price) AS min_price
+FROM zepto_sales
+GROUP BY category;
 
-SELECT DISTINCT name, mrp
-FROM zepto
-WHERE outofstock = TRUE and mrp > 300
-ORDER BY mrp DESC;
+-- 13. Show cities having more than 50 orders.
+SELECT city, COUNT(*) AS orders
+FROM zepto_sales
+GROUP BY city
+HAVING COUNT(*) > 50;
 
--- Q3.Calculate Estimated Revenue for each category.
+-- 14. Create a rating label based on the product rating.
+SELECT product_name,
+CASE
+WHEN rating >= 4.5 THEN 'Excellent'
+WHEN rating >= 4.0 THEN 'Good'
+ELSE 'Average'
+END AS rating_label
+FROM zepto_sales;
 
-SELECT category,
-SUM(discountedSellingPrice * availableQuantity) AS total_revenue
-FROM zepto
+-- 15. Convert product names to uppercase.
+SELECT product_name, UPPER(product_name) AS product_name_upper
+FROM zepto_sales;
+
+-- 16. Rank products by revenue.
+SELECT product_name, revenue,
+RANK() OVER (ORDER BY revenue DESC) AS rnk
+FROM zepto_sales;
+
+-- 17. Dense rank products by revenue.
+SELECT product_name, revenue,
+DENSE_RANK() OVER (ORDER BY revenue DESC) AS drnk
+FROM zepto_sales;
+
+-- 18. Find total revenue by category.
+SELECT category, SUM(revenue) AS total_revenue
+FROM zepto_sales
 GROUP BY category
-ORDER BY total_revenue;
+ORDER BY total_revenue DESC;
 
--- Q4. Find all products where MRP is greater than ₹500 and discount is less than 10%.
+-- 19. Find average discount percentage by city.
+SELECT city, AVG(discount_pct) AS avg_discount
+FROM zepto_sales
+GROUP BY city;
 
-SELECT DISTINCT name, mrp, discountPercent
-FROM zepto
-WHERE mrp > 500 AND discountPercent < 10
-ORDER BY mrp DESC, discountPercent DESC; 
+-- 20. Find total quantity sold by brand.
+SELECT brand, SUM(quantity_sold) AS qty_sold
+FROM zepto_sales
+GROUP BY brand
+ORDER BY qty_sold DESC;
 
--- Q5. Identify the top 5 categories offering the highest average discount percentage.
+-- 21. Find average selling price by category.
+SELECT category, AVG(selling_price) AS avg_price
+FROM zepto_sales
+GROUP BY category;
 
-SELECT category,
-ROUND(AVG(discountPercent),2) AS avg_discount
-FROM zepto
-GROUP BY category
-ORDER BY avg_discount DESC
-limit 5;
+-- 22. Find the highest order value in each city.
+SELECT city, MAX(revenue) AS highest_order
+FROM zepto_sales
+GROUP BY city;
 
--- Q6. Find the price per gram for products above 100g and sort by best value.
+-- 23. Calculate total revenue for all orders.
+SELECT SUM(revenue) AS grand_revenue
+FROM zepto_sales;
 
-SELECT DISTINCT name, weightInGms, discountedSellingPrice,
-ROUND(discountedSellingPrice/WeightInGms,2) AS price_per_gram
-FROM zepto
-WHERE weightInGms >= 100
-ORDER BY price_per_gram;
--- Q7.Group the products into categories like Low, Medium, Bulk.
+-- 24. Find the overall average rating of products.
+SELECT AVG(rating) AS overall_rating
+FROM zepto_sales;
 
-SELECT DISTINCT name, weightInGms,
-CASE WHEN weightInGms < 1000 THEN 'low'
-	WHEN weightInGms < 5000 THEN 'medium'
-	ELSE 'Bulk'
-	END AS weight_category
-FROM zepto;
 
--- Q8.What is the Total Inventory Weight Per Category 
 
-SELECT category,
-SUM(weightInGms * availableQuantity) AS total_weight
-FROM zepto
-GROUP BY category
-ORDER BY total_weight;
